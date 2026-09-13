@@ -4,6 +4,8 @@ Code and run logs for the paper:
 
 > **Erasure is a Shift, Not a Deletion: Recovering Pretrained Semantics from Behavior-Cloned VLAs at Inference Time**
 
+Paper: [10.5281/zenodo.22733623](https://doi.org/10.5281/zenodo.22733623)
+
 Every number in the paper is produced by the scripts and logs in this folder. The pipeline runs entirely on publicly released checkpoints: no training, no simulator, and no proprietary data.
 
 ## The claim in one paragraph
@@ -82,9 +84,15 @@ Each notebook pins its Python dependencies in its first cells (PyTorch, Transfor
 If you build on this code, please cite the paper:
 
 ```bibtex
-@misc{erasure_is_a_shift_2026,
-  title = {Erasure is a Shift, Not a Deletion: Recovering Pretrained Semantics from Behavior-Cloned VLAs at Inference Time},
-  year  = {2026},
-  note  = {Preprint; add the arXiv ID once available}
+@misc{jani_2026_22733623,
+  author       = {Jani, Jatin},
+  title        = {Erasure is a Shift, Not a Deletion: Recovering Pretrained Semantics from Behavior-Cloned VLAs at Inference Time},
+  month        = sep,
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.22733623},
+  url          = {https://doi.org/10.5281/zenodo.22733623}
 }
 ```
+
+Jani, J. (2026). *Erasure is a Shift, Not a Deletion: Recovering Pretrained Semantics from Behavior-Cloned VLAs at Inference Time*. Zenodo. https://doi.org/10.5281/zenodo.22733623

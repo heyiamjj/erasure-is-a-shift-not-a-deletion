@@ -4,6 +4,8 @@
 
 This repository contains the paper and the complete experiment code and run logs.
 
+Paper: [10.5281/zenodo.22733623](https://doi.org/10.5281/zenodo.22733623)
+
 ## Summary
 
 Behavior-cloning finetuning of a pretrained vision-language model (VLM) into a robot policy does not delete the pretrained semantics; it displaces them. The displacement is low-rank, concentrated in the deepest layers, and measurable from the checkpoint pair alone, and it can be added back at inference ("displacement correction") with zero training:
@@ -20,7 +22,7 @@ All experiments run on publicly released checkpoints at the readout level, with 
 
 ```
 ├── paper/
-│   └── paper.pdf           the compiled paper (placeholder until the final version is added)
+│   └── paper.pdf           the compiled paper
 └── codebase/               experiment code and complete run logs (E0–E5)
     ├── README.md           (protocol map, how to run, conventions)
     ├── e0-gate/
@@ -61,9 +63,15 @@ All model checkpoints and datasets are downloaded from their original sources an
 If you build on this work, please cite the paper:
 
 ```bibtex
-@misc{erasure_is_a_shift_2026,
-  title = {Erasure is a Shift, Not a Deletion: Recovering Pretrained Semantics from Behavior-Cloned VLAs at Inference Time},
-  year  = {2026},
-  note  = {Preprint; add the arXiv ID once available}
+@misc{jani_2026_22733623,
+  author       = {Jani, Jatin},
+  title        = {Erasure is a Shift, Not a Deletion: Recovering Pretrained Semantics from Behavior-Cloned VLAs at Inference Time},
+  month        = sep,
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.22733623},
+  url          = {https://doi.org/10.5281/zenodo.22733623}
 }
 ```
+
+Jani, J. (2026). *Erasure is a Shift, Not a Deletion: Recovering Pretrained Semantics from Behavior-Cloned VLAs at Inference Time*. Zenodo. https://doi.org/10.5281/zenodo.22733623
