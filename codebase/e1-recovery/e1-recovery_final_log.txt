@@ -1,0 +1,248 @@
+﻿[{"stream_name":"stderr","time":6.529728408,"data":"/usr/local/lib/python3.12/dist-packages/nbformat/__init__.py:96: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.\n"}
+,{"stream_name":"stderr","time":6.529794612,"data":"  validate(nb)\n"}
+,{"stream_name":"stderr","time":7.355683962,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.355731399,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.35573731,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.355741692,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":7.942641872,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.942676581,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.942681956,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.942685694,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":9.001649477,"data":"SMOKE = False\n"}
+,{"stream_name":"stdout","time":9.939294693,"data":"TAR_OK\r\n"}
+,{"stream_name":"stdout","time":10.053742167,"data":"assets\r\n"}
+,{"stream_name":"stdout","time":10.053805445,"data":"CITATION.cff\r\n"}
+,{"stream_name":"stdout","time":10.053812003,"data":"experiments\r\n"}
+,{"stream_name":"stdout","time":10.053816581,"data":"LICENSE\r\n"}
+,{"stream_name":"stdout","time":10.05382076,"data":"pretrained_models\r\n"}
+,{"stream_name":"stdout","time":10.053824769,"data":"prismatic\r\n"}
+,{"stream_name":"stdout","time":10.212588688,"data":"cwd: /kaggle/working/Anchor-Align\n"}
+,{"stream_name":"stdout","time":14.006615413,"data":"  Preparing metadata (setup.py) ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":15.223376202,"data":"  Building wheel for dlimp (setup.py) ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":15.295337401,"data":"DIMP_OK\r\n"}
+,{"stream_name":"stdout","time":27.341478778,"data":"  Installing build dependencies ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":27.89905603,"data":"  Getting requirements to build wheel ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":28.405515768,"data":"  Preparing metadata (pyproject.toml) ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":29.316467398,"data":"\u001b[?25l   \u001b[90mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m \u001b[32m0.0/566.4 kB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[90mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m \u001b[32m566.4/566.4 kB\u001b[0m \u001b[31m28.2 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":29.367190291,"data":"\u001b[?25h\u001b[?25l   \u001b[90mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m \u001b[32m0.0/3.6 MB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[91mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m\u001b[91mΓò╕\u001b[0m \u001b[32m3.6/3.6 MB\u001b[0m \u001b[31m249.9 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[90mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m \u001b[32m3.6/3.6 MB\u001b[0m \u001b[31m99.7 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":32.605741359,"data":"\u001b[?25h  Building wheel for transformers (pyproject.toml) ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":43.953118188,"data":"\u001b[31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\r\n"}
+,{"stream_name":"stdout","time":43.953148347,"data":"sentence-transformers 5.4.1 requires transformers\u003c6.0.0,\u003e=4.41.0, but you have transformers 4.40.1 which is incompatible.\u001b[0m\u001b[31m\r\n"}
+,{"stream_name":"stdout","time":44.242713105,"data":"\u001b[0mTRANSFORMERS_OK\r\n"}
+,{"stream_name":"stdout","time":51.960223883,"data":"   ΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü 2.7/2.7 MB 89.9 MB/s eta 0:00:00\r\n"}
+,{"stream_name":"stdout","time":51.960273339,"data":"   ΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü 66.7/66.7 kB 4.7 MB/s eta 0:00:00\r\n"}
+,{"stream_name":"stdout","time":56.626486427,"data":"     ΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü 59.8/59.8 kB 4.2 MB/s eta 0:00:00\r\n"}
+,{"stream_name":"stdout","time":56.626526709,"data":"   ΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü 2.2/2.2 MB 62.4 MB/s eta 0:00:00\r\n"}
+,{"stream_name":"stdout","time":97.490516445,"data":"torch 2.10.0+cu128\r\n"}
+,{"stream_name":"stdout","time":97.490563261,"data":"tf 2.20.0\r\n"}
+,{"stream_name":"stdout","time":97.490570447,"data":"transformers 4.40.1\r\n"}
+,{"stream_name":"stdout","time":97.490575049,"data":"tokenizers 0.19.1\r\n"}
+,{"stream_name":"stdout","time":97.490580122,"data":"timm 0.9.10\r\n"}
+,{"stream_name":"stdout","time":97.49058993,"data":"tfds 4.9.9\r\n"}
+,{"stream_name":"stdout","time":97.490593416,"data":"dlimp ?\r\n"}
+,{"stream_name":"stdout","time":101.263422451,"data":"\u003e\u003e downloading BC (VLA-Adapter-Pro) ...\n"}
+,{"stream_name":"stdout","time":113.51851261,"data":"\u003e\u003e downloading AA (libero-spatial) ...\n"}
+,{"stream_name":"stdout","time":125.19957671,"data":"\u003e\u003e downloading base VLM ...\n"}
+,{"stream_name":"stdout","time":137.741098302,"data":"3.0G\t/kaggle/working/ckpts/aa\r\n"}
+,{"stream_name":"stdout","time":137.741133062,"data":"2.5G\t/kaggle/working/ckpts/base\r\n"}
+,{"stream_name":"stdout","time":137.741143926,"data":"2.8G\t/kaggle/working/ckpts/bc\r\n"}
+,{"stream_name":"stdout","time":137.919996825,"data":"\u003e\u003e downloading RLDS libero_spatial_no_noops ...\n"}
+,{"stream_name":"stdout","time":154.727872465,"data":"RLDS top-level: ['1.0.0']\n"}
+,{"stream_name":"stdout","time":154.727962714,"data":"1.8G\t/kaggle/working/Anchor-Align/data/libero/libero_spatial_no_noops\r\n"}
+,{"stream_name":"stdout","time":157.345295575,"data":"torch 2.10.0+cu128 | cuda: True Tesla T4\n"}
+,{"stream_name":"stdout","time":166.118395043,"data":"Using LIBERO constants:\n"}
+,{"stream_name":"stdout","time":166.118433792,"data":"  NUM_ACTIONS_CHUNK = 8\n"}
+,{"stream_name":"stdout","time":166.118465434,"data":"  ACTION_DIM = 7\n"}
+,{"stream_name":"stdout","time":166.118470805,"data":"  PROPRIO_DIM = 8\n"}
+,{"stream_name":"stdout","time":166.118474607,"data":"  ACTION_PROPRIO_NORMALIZATION_TYPE = NormalizationType.BOUNDS_Q99\n"}
+,{"stream_name":"stdout","time":166.118478626,"data":"If needed, manually set the correct constants in `prismatic/vla/constants.py`!\n"}
+,{"stream_name":"stdout","time":166.367000091,"data":"\u003e\u003e\u003e BC (VLA-Adapter-Pro)\n"}
+,{"stream_name":"stdout","time":166.367032341,"data":"Instantiating pretrained VLA policy...\n"}
+,{"stream_name":"stdout","time":202.675104406,"data":"[bc] llm_dim=896 norm_keys=['libero_spatial_no_noops']\n"}
+,{"stream_name":"stdout","time":202.675144155,"data":"\u003e\u003e\u003e AA (Anchor-Align libero-spatial)\n"}
+,{"stream_name":"stdout","time":202.675150828,"data":"Instantiating pretrained VLA policy...\n"}
+,{"stream_name":"stdout","time":238.025121521,"data":"[libero-spatial] llm_dim=896 norm_keys=['libero_spatial_no_noops']\n"}
+,{"stream_name":"stdout","time":238.025159145,"data":"\u003e\u003e\u003e base VLM (native Prismatic load, bf16)\n"}
+,{"stream_name":"stdout","time":283.912718151,"data":"Added 256 extra tokens.\n"}
+,{"stream_name":"stdout","time":288.064779178,"data":"lm_head (151936, 896)\n"}
+,{"stream_name":"stdout","time":288.064822063,"data":"dir_ids: {'forward': 13435, 'backward': 81196, 'left': 2359, 'right': 1291, 'up': 454, 'down': 2923}\n"}
+,{"stream_name":"stdout","time":288.264424332,"data":"\n"}
+,{"stream_name":"stdout","time":288.264466391,"data":"########## STAGE 1: PHENOMENON BASELINE ##########\n"}
+,{"stream_name":"stderr","time":289.883749959,"data":"\r  0%|          | 0/432 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stderr","time":289.993006559,"data":"\r  0%|          | 0/432 [00:00\u003c?, ?it/s]\r  3%|ΓûÄ         | 14/432 [00:00\u003c00:03, 132.53it/s]\n"}
+,{"stream_name":"stderr","time":290.097438566,"data":"\r  3%|ΓûÄ         | 14/432 [00:00\u003c00:03, 132.53it/s]\r  9%|Γûë         | 39/432 [00:00\u003c00:02, 195.96it/s]\n"}
+,{"stream_name":"stderr","time":290.19934427,"data":"\r  9%|Γûë         | 39/432 [00:00\u003c00:02, 195.96it/s]\r 19%|ΓûêΓûë        | 81/432 [00:00\u003c00:01, 295.75it/s]\n"}
+,{"stream_name":"stderr","time":290.3004452,"data":"\r 19%|ΓûêΓûë        | 81/432 [00:00\u003c00:01, 295.75it/s]\r 31%|ΓûêΓûêΓûê       | 133/432 [00:00\u003c00:00, 381.94it/s]\n"}
+,{"stream_name":"stderr","time":290.410736573,"data":"\r 31%|ΓûêΓûêΓûê       | 133/432 [00:00\u003c00:00, 381.94it/s]\r 42%|ΓûêΓûêΓûêΓûêΓûÅ     | 180/432 [00:00\u003c00:00, 412.96it/s]\n"}
+,{"stream_name":"stderr","time":290.52071702,"data":"\r 42%|ΓûêΓûêΓûêΓûêΓûÅ     | 180/432 [00:00\u003c00:00, 412.96it/s]\r 51%|ΓûêΓûêΓûêΓûêΓûêΓûÅ    | 222/432 [00:00\u003c00:00, 386.03it/s]\n"}
+,{"stream_name":"stderr","time":290.622136128,"data":"\r 51%|ΓûêΓûêΓûêΓûêΓûêΓûÅ    | 222/432 [00:00\u003c00:00, 386.03it/s]\r 62%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ   | 266/432 [00:00\u003c00:00, 401.18it/s]\n"}
+,{"stream_name":"stderr","time":290.751970977,"data":"\r 62%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ   | 266/432 [00:00\u003c00:00, 401.18it/s]\r 71%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûê   | 307/432 [00:00\u003c00:00, 372.42it/s]\n"}
+,{"stream_name":"stderr","time":290.851818929,"data":"\r 71%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûê   | 307/432 [00:00\u003c00:00, 372.42it/s]\r 85%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûì | 366/432 [00:00\u003c00:00, 434.37it/s]\n"}
+,{"stream_name":"stderr","time":290.916530605,"data":"\r 85%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûì | 366/432 [00:00\u003c00:00, 434.37it/s]\r100%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê| 432/432 [00:01\u003c00:00, 418.75it/s]\n"}
+,{"stream_name":"stderr","time":290.947085917,"data":"\r100%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê| 432/432 [00:01\u003c00:00, 418.75it/s]\n"}
+,{"stream_name":"stderr","time":290.947136347,"data":"\n"}
+,{"stream_name":"stderr","time":290.947140388,"data":"\n"}
+,{"stream_name":"stdout","time":291.915768503,"data":"\n"}
+,{"stream_name":"stdout","time":291.915800076,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":291.915806118,"data":"# Loading the following 1 datasets (incl. sampling weight):                         #\n"}
+,{"stream_name":"stdout","time":291.915810459,"data":"# libero_spatial_no_noops: =================================================1.000000 #\n"}
+,{"stream_name":"stdout","time":291.915814468,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":291.915818638,"data":"\n"}
+,{"stream_name":"stderr","time":297.986212016,"data":"/kaggle/working/Anchor-Align/prismatic/extern/hf/modeling_prismatic.py:974: UserWarning: The given NumPy array is not writable, and PyTorch does not support non-writable tensors. This means writing to this tensor will result in undefined behavior. You may want to copy the array to protect its data or make it writable before converting it to a tensor. This type of warning will be suppressed for the rest of this program. (Triggered internally at /pytorch/torch/csrc/utils/tensor_numpy.cpp:213.)\n"}
+,{"stream_name":"stderr","time":297.986276832,"data":"  proprio = torch.Tensor(proprio).to(projected_patch_embeddings.device, dtype=projected_patch_embeddings.dtype)\n"}
+,{"stream_name":"stderr","time":297.986285024,"data":"\n"}
+,{"stream_name":"stderr","time":297.986290712,"data":"/kaggle/working/Anchor-Align/prismatic/extern/hf/modeling_prismatic.py:974: UserWarning: The given NumPy array is not writable, and PyTorch does not support non-writable tensors. This means writing to this tensor will result in undefined behavior. You may want to copy the array to protect its data or make it writable before converting it to a tensor. This type of warning will be suppressed for the rest of this program. (Triggered internally at /pytorch/torch/csrc/utils/tensor_numpy.cpp:213.)\n"}
+,{"stream_name":"stderr","time":297.98629691,"data":"  proprio = torch.Tensor(proprio).to(projected_patch_embeddings.device, dtype=projected_patch_embeddings.dtype)\n"}
+,{"stream_name":"stdout","time":1293.086231313,"data":"skipped stationary: 0\n"}
+,{"stream_name":"stdout","time":1293.086329727,"data":"=== DIAGNOSTIC: FROZEN-HEAD DIRECTION ACC ===\n"}
+,{"stream_name":"stdout","time":1293.086337596,"data":"  base  frozen_acc= 15.6%  ap_acc=  0.0%  (n=500)  dist={'up': 482, 'left': 17, 'right': 1}\n"}
+,{"stream_name":"stdout","time":1293.086343713,"data":"  bc    frozen_acc= 12.8%  ap_acc= 89.2%  (n=500)  dist={'up': 260, 'right': 195, 'left': 23, 'down': 13, 'forward': 6, 'backward': 3}\n"}
+,{"stream_name":"stdout","time":1293.086349698,"data":"  aa    frozen_acc= 17.6%  ap_acc= 83.4%  (n=500)  dist={'up': 327, 'right': 61, 'left': 57, 'down': 36, 'forward': 18, 'backward': 1}\n"}
+,{"stream_name":"stdout","time":1297.610069541,"data":"=== GATE: TEXT-TOKEN CKA vs BASE (per-layer) ===\n"}
+,{"stream_name":"stdout","time":1297.610101904,"data":"  bc:  100   99   99   98   98   98   97   96   97   98   97   96   96   95   95   93   93   93   94   92   92   86   62   49   59\n"}
+,{"stream_name":"stdout","time":1297.610108158,"data":"  aa:  100  100   99   99   99   99   99   99   99   99   99   98   98   98   99   99   99   99   99   98   98   98   97   97   94\n"}
+,{"stream_name":"stdout","time":1297.610113761,"data":"  deep6: bc=73.1% aa=97.0% gap=23.9 pts\n"}
+,{"stream_name":"stdout","time":1297.610118322,"data":"  GATE: PASS\n"}
+,{"stream_name":"stdout","time":1620.660369513,"data":"=== DIAGNOSTIC: CV DIRECTION PROBES (action-adjacent) ===\n"}
+,{"stream_name":"stdout","time":1620.66042407,"data":"  base  probe_acc= 75.1%\n"}
+,{"stream_name":"stdout","time":1620.660430678,"data":"  bc    probe_acc= 89.4%\n"}
+,{"stream_name":"stdout","time":1620.660435379,"data":"  aa    probe_acc= 91.3%\n"}
+,{"stream_name":"stdout","time":1620.814460808,"data":"\n"}
+,{"stream_name":"stdout","time":1620.814496156,"data":"########## STAGE 2: DRIFT COMPUTATION (train frames) ##########\n"}
+,{"stream_name":"stdout","time":1621.23136661,"data":"\n"}
+,{"stream_name":"stdout","time":1621.231402975,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":1621.231408428,"data":"# Loading the following 1 datasets (incl. sampling weight):                         #\n"}
+,{"stream_name":"stdout","time":1621.231414327,"data":"# libero_spatial_no_noops: =================================================1.000000 #\n"}
+,{"stream_name":"stdout","time":1621.231418396,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":1621.231423175,"data":"\n"}
+,{"stream_name":"stdout","time":1636.383972346,"data":"  train frame 10/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1649.326515848,"data":"  train frame 20/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1662.741981952,"data":"  train frame 30/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1676.261679264,"data":"  train frame 40/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1689.393268805,"data":"  train frame 50/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1702.304290415,"data":"  train frame 60/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1715.112201751,"data":"  train frame 70/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1728.048209569,"data":"  train frame 80/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1741.2619336,"data":"  train frame 90/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1754.516031745,"data":"  train frame 100/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1767.612016421,"data":"  train frame 110/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1780.615767383,"data":"  train frame 120/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1793.560566045,"data":"  train frame 130/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1806.536412563,"data":"  train frame 140/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1819.6291476,"data":"  train frame 150/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1832.735281101,"data":"  train frame 160/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1845.821260747,"data":"  train frame 170/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1858.8698443,"data":"  train frame 180/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1871.854506019,"data":"  train frame 190/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1884.894808565,"data":"  train frame 200/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1897.966295727,"data":"  train frame 210/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1911.060907305,"data":"  train frame 220/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1924.160625815,"data":"  train frame 230/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1937.230896283,"data":"  train frame 240/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1950.254078184,"data":"  train frame 250/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1963.284333605,"data":"  train frame 260/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1976.304223692,"data":"  train frame 270/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":1989.322854603,"data":"  train frame 280/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":2002.377937115,"data":"  train frame 290/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":2015.460208226,"data":"  train frame 300/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":2028.529359688,"data":"  train frame 310/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":2041.620694356,"data":"  train frame 320/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":2054.754603192,"data":"  train frame 330/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":2067.811478161,"data":"  train frame 340/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":2080.857924517,"data":"  train frame 350/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":2093.921877509,"data":"  train frame 360/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":2106.918556986,"data":"  train frame 370/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":2119.94204889,"data":"  train frame 380/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":2132.982045357,"data":"  train frame 390/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":2145.807423431,"data":"  train frame 400/400 (max_n=30)\n"}
+,{"stream_name":"stdout","time":2145.807468655,"data":"computed delta for 24 layers, max_n=30, frames=400\n"}
+,{"stream_name":"stdout","time":2146.009606233,"data":"\n"}
+,{"stream_name":"stdout","time":2146.009646499,"data":"########## STAGE 3+4: PATCHING SWEEPS + CONTROLS ##########\n"}
+,{"stream_name":"stdout","time":2146.009651365,"data":"23 configs + 4 controls\n"}
+,{"stream_name":"stdout","time":2146.246519298,"data":"\n"}
+,{"stream_name":"stdout","time":2146.246574905,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":2146.246583746,"data":"# Loading the following 1 datasets (incl. sampling weight):                         #\n"}
+,{"stream_name":"stdout","time":2146.246589104,"data":"# libero_spatial_no_noops: =================================================1.000000 #\n"}
+,{"stream_name":"stdout","time":2146.246593791,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":2146.246598315,"data":"\n"}
+,{"stream_name":"stdout","time":2147.180439717,"data":"stage3 using 100 cached frames (same as stage 1 phenomenon frames)\n"}
+,{"stream_name":"stdout","time":2148.618211397,"data":"  cfg: bc_band21_24_a0.25\n"}
+,{"stream_name":"stdout","time":2149.29539148,"data":"  cfg: bc_band21_24_a0.5\n"}
+,{"stream_name":"stdout","time":2149.973265172,"data":"  cfg: bc_band21_24_a0.75\n"}
+,{"stream_name":"stdout","time":2150.649265105,"data":"  cfg: bc_band21_24_a1.0\n"}
+,{"stream_name":"stdout","time":2151.32606002,"data":"  cfg: bc_band21_24_a1.5\n"}
+,{"stream_name":"stdout","time":2152.001870863,"data":"  cfg: bc_band21_24_a2.0\n"}
+,{"stream_name":"stdout","time":2152.679948595,"data":"  cfg: bc_deep6_a0.25\n"}
+,{"stream_name":"stdout","time":2153.358325313,"data":"  cfg: bc_deep6_a0.5\n"}
+,{"stream_name":"stdout","time":2154.036649866,"data":"  cfg: bc_deep6_a0.75\n"}
+,{"stream_name":"stdout","time":2154.719328735,"data":"  cfg: bc_deep6_a1.0\n"}
+,{"stream_name":"stdout","time":2155.399882032,"data":"  cfg: bc_deep6_a1.5\n"}
+,{"stream_name":"stdout","time":2156.07811204,"data":"  cfg: bc_deep6_a2.0\n"}
+,{"stream_name":"stdout","time":2156.757609431,"data":"  cfg: bc_all_a0.25\n"}
+,{"stream_name":"stdout","time":2157.439702208,"data":"  cfg: bc_all_a0.5\n"}
+,{"stream_name":"stdout","time":2158.119698331,"data":"  cfg: bc_all_a0.75\n"}
+,{"stream_name":"stdout","time":2158.797573237,"data":"  cfg: bc_all_a1.0\n"}
+,{"stream_name":"stdout","time":2159.478969505,"data":"  cfg: bc_all_a1.5\n"}
+,{"stream_name":"stdout","time":2160.157919326,"data":"  cfg: bc_all_a2.0\n"}
+,{"stream_name":"stdout","time":2160.836187883,"data":"  cfg: bc_deep6_text_a0.5\n"}
+,{"stream_name":"stdout","time":2161.531214735,"data":"  cfg: bc_deep6_text_a1.0\n"}
+,{"stream_name":"stdout","time":2162.208095689,"data":"  cfg: bc_deep6_vis_a1.0\n"}
+,{"stream_name":"stdout","time":2162.885197065,"data":"  ctl: ctl_reverse_base\n"}
+,{"stream_name":"stdout","time":2163.553668398,"data":"  ctl: ctl_random\n"}
+,{"stream_name":"stdout","time":2164.451954612,"data":"  ctl: ctl_persample\n"}
+,{"stream_name":"stdout","time":2165.133000623,"data":"  ctl: ctl_aa_toward_bc\n"}
+,{"stream_name":"stdout","time":2337.477384448,"data":"  eval frame 10/100 elapsed=190s\n"}
+,{"stream_name":"stdout","time":2527.441042577,"data":"  eval frame 20/100 elapsed=380s\n"}
+,{"stream_name":"stdout","time":2717.429642057,"data":"  eval frame 30/100 elapsed=570s\n"}
+,{"stream_name":"stdout","time":2907.330230532,"data":"  eval frame 40/100 elapsed=760s\n"}
+,{"stream_name":"stdout","time":3097.279386728,"data":"  eval frame 50/100 elapsed=950s\n"}
+,{"stream_name":"stdout","time":3287.324882268,"data":"  eval frame 60/100 elapsed=1140s\n"}
+,{"stream_name":"stdout","time":3477.585807458,"data":"  eval frame 70/100 elapsed=1330s\n"}
+,{"stream_name":"stdout","time":3667.88373292,"data":"  eval frame 80/100 elapsed=1521s\n"}
+,{"stream_name":"stdout","time":3858.09862945,"data":"  eval frame 90/100 elapsed=1711s\n"}
+,{"stream_name":"stdout","time":4048.256564852,"data":"  eval frame 100/100 elapsed=1901s\n"}
+,{"stream_name":"stdout","time":4048.256617973,"data":"\n"}
+,{"stream_name":"stdout","time":4048.256625313,"data":"=== RESULTS ===\n"}
+,{"stream_name":"stdout","time":4048.256630183,"data":"  row_base                   n=100 cka_text_deep=100.0% cka_text_l24=100.0% cka_vis_deep=100.0% ap_acc=  0.0% l2=   nan\n"}
+,{"stream_name":"stdout","time":4048.256635308,"data":"  row_bc_a0                  n=100 cka_text_deep= 95.2% cka_text_l24= 90.4% cka_vis_deep= 46.6% ap_acc= 93.0% l2= 0.506\n"}
+,{"stream_name":"stdout","time":4048.256640154,"data":"  bc_band21_24_a0.25         n=100 cka_text_deep= 96.6% cka_text_l24= 96.8% cka_vis_deep= 48.9% ap_acc= 96.0% l2= 0.508\n"}
+,{"stream_name":"stdout","time":4048.256645278,"data":"  bc_band21_24_a0.5          n=100 cka_text_deep= 96.9% cka_text_l24= 96.5% cka_vis_deep= 51.3% ap_acc= 91.0% l2= 0.969\n"}
+,{"stream_name":"stdout","time":4048.256650449,"data":"  bc_band21_24_a0.75         n=100 cka_text_deep= 96.9% cka_text_l24= 95.2% cka_vis_deep= 52.4% ap_acc= 84.0% l2= 1.442\n"}
+,{"stream_name":"stdout","time":4048.256655763,"data":"  bc_band21_24_a1.0          n=100 cka_text_deep= 96.8% cka_text_l24= 94.1% cka_vis_deep= 53.1% ap_acc= 83.0% l2= 1.553\n"}
+,{"stream_name":"stdout","time":4048.256661198,"data":"  bc_band21_24_a1.5          n=100 cka_text_deep= 96.6% cka_text_l24= 92.9% cka_vis_deep= 53.6% ap_acc= 85.0% l2= 1.600\n"}
+,{"stream_name":"stdout","time":4048.256666508,"data":"  bc_band21_24_a2.0          n=100 cka_text_deep= 96.5% cka_text_l24= 92.3% cka_vis_deep= 53.7% ap_acc= 84.0% l2= 1.688\n"}
+,{"stream_name":"stdout","time":4048.25667154,"data":"  bc_deep6_a0.25             n=100 cka_text_deep= 97.9% cka_text_l24= 97.5% cka_vis_deep= 53.9% ap_acc= 96.0% l2= 0.669\n"}
+,{"stream_name":"stdout","time":4048.256676471,"data":"  bc_deep6_a0.5              n=100 cka_text_deep= 97.3% cka_text_l24= 94.4% cka_vis_deep= 60.0% ap_acc= 90.0% l2= 1.577\n"}
+,{"stream_name":"stdout","time":4048.256681711,"data":"  bc_deep6_a0.75             n=100 cka_text_deep= 96.2% cka_text_l24= 91.9% cka_vis_deep= 61.7% ap_acc= 88.0% l2= 1.814\n"}
+,{"stream_name":"stdout","time":4048.256695781,"data":"  bc_deep6_a1.0              n=100 cka_text_deep= 95.4% cka_text_l24= 90.9% cka_vis_deep= 62.0% ap_acc= 82.0% l2= 1.931\n"}
+,{"stream_name":"stdout","time":4048.256707422,"data":"  bc_deep6_a1.5              n=100 cka_text_deep= 94.5% cka_text_l24= 90.4% cka_vis_deep= 61.9% ap_acc= 77.0% l2= 2.088\n"}
+,{"stream_name":"stdout","time":4048.256711852,"data":"  bc_deep6_a2.0              n=100 cka_text_deep= 94.1% cka_text_l24= 90.4% cka_vis_deep= 61.5% ap_acc= 72.0% l2= 2.139\n"}
+,{"stream_name":"stdout","time":4048.256716942,"data":"  bc_all_a0.25               n=100 cka_text_deep= 94.4% cka_text_l24= 90.8% cka_vis_deep= 62.3% ap_acc= 45.0% l2= 1.583\n"}
+,{"stream_name":"stdout","time":4048.256720991,"data":"  bc_all_a0.5                n=100 cka_text_deep= 92.5% cka_text_l24= 89.2% cka_vis_deep= 59.4% ap_acc= 39.0% l2= 2.385\n"}
+,{"stream_name":"stdout","time":4048.256726917,"data":"  bc_all_a0.75               n=100 cka_text_deep= 92.4% cka_text_l24= 89.7% cka_vis_deep= 58.1% ap_acc= 41.0% l2= 2.586\n"}
+,{"stream_name":"stdout","time":4048.256731254,"data":"  bc_all_a1.0                n=100 cka_text_deep= 92.4% cka_text_l24= 89.7% cka_vis_deep= 57.5% ap_acc= 41.0% l2= 2.671\n"}
+,{"stream_name":"stdout","time":4048.256735386,"data":"  bc_all_a1.5                n=100 cka_text_deep= 92.3% cka_text_l24= 89.5% cka_vis_deep= 56.7% ap_acc= 41.0% l2= 2.714\n"}
+,{"stream_name":"stdout","time":4048.25673901,"data":"  bc_all_a2.0                n=100 cka_text_deep= 92.3% cka_text_l24= 89.4% cka_vis_deep= 56.4% ap_acc= 41.0% l2= 2.710\n"}
+,{"stream_name":"stdout","time":4048.256742823,"data":"  bc_deep6_text_a0.5         n=100 cka_text_deep= 97.3% cka_text_l24= 94.2% cka_vis_deep= 46.6% ap_acc= 93.0% l2= 0.508\n"}
+,{"stream_name":"stdout","time":4048.256746689,"data":"  bc_deep6_text_a1.0         n=100 cka_text_deep= 95.5% cka_text_l24= 90.6% cka_vis_deep= 46.6% ap_acc= 92.0% l2= 0.511\n"}
+,{"stream_name":"stdout","time":4048.256750728,"data":"  bc_deep6_vis_a1.0          n=100 cka_text_deep= 95.8% cka_text_l24= 92.1% cka_vis_deep= 62.0% ap_acc= 78.0% l2= 2.201\n"}
+,{"stream_name":"stdout","time":4048.256754495,"data":"  ctl_reverse_base           n=100 cka_text_deep= 94.1% cka_text_l24= 84.5% cka_vis_deep= 55.0% ap_acc=  0.0% l2=   nan\n"}
+,{"stream_name":"stdout","time":4048.256758392,"data":"  ctl_random                 n=100 cka_text_deep= 87.6% cka_text_l24= 74.6% cka_vis_deep= 56.1% ap_acc= 90.0% l2= 0.586\n"}
+,{"stream_name":"stdout","time":4048.256762275,"data":"  ctl_persample              n=100 cka_text_deep= 95.7% cka_text_l24= 87.2% cka_vis_deep= 81.6% ap_acc= 45.0% l2= 1.608\n"}
+,{"stream_name":"stdout","time":4048.25676621,"data":"  ctl_aa_toward_bc           n=100 cka_text_deep= 92.9% cka_text_l24= 82.8% cka_vis_deep= 46.8% ap_acc= 73.0% l2= 0.772\n"}
+,{"stream_name":"stdout","time":4048.256770162,"data":"\n"}
+,{"stream_name":"stdout","time":4048.256774529,"data":"=== MECHANICS CHECK ===\n"}
+,{"stream_name":"stdout","time":4048.256778254,"data":"  persample ceiling  =  95.7%   (expect ~100: patching must reproduce base states)\n"}
+,{"stream_name":"stdout","time":4048.256782896,"data":"  reverse base-Delta =  94.1%   (expect ~bc 95.2%: base+(-Delta) ~= bc states)\n"}
+,{"stream_name":"stdout","time":4048.256787004,"data":"  aa toward bc       =  92.9% (expect drop toward bc 95.2%: drift axis is semantic)\n"}
+,{"stream_name":"stdout","time":4048.256790987,"data":"  MECHANICS: OK\n"}
+,{"stream_name":"stdout","time":4048.256794616,"data":"saved: /kaggle/working/e1_results.json\n"}
+,{"stream_name":"stderr","time":4054.084451207,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":4054.084490497,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":4054.272425458,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":4054.27245483,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":4054.906249696,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":4055.435597371,"data":"[NbConvertApp] Writing 964453 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":4057.833483034,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":4058.949027631,"data":"[NbConvertApp] Writing 1170874 bytes to __results__.html\n"}
+]

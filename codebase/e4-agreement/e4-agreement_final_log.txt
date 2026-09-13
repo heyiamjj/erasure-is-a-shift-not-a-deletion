@@ -1,0 +1,150 @@
+[{"stream_name":"stderr","time":5.608211936,"data":"/usr/local/lib/python3.12/dist-packages/nbformat/__init__.py:96: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.\n"}
+,{"stream_name":"stderr","time":5.608290295,"data":"  validate(nb)\n"}
+,{"stream_name":"stderr","time":6.342233484,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":6.342260835,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":6.342265712,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":6.34227115,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":6.885972518,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":6.886015818,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":6.886020934,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":6.886025394,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":7.886306938,"data":"SMOKE = False\n"}
+,{"stream_name":"stdout","time":8.808917391,"data":"TAR_OK\r\n"}
+,{"stream_name":"stdout","time":8.921839535,"data":"assets\r\n"}
+,{"stream_name":"stdout","time":8.921861464,"data":"CITATION.cff\r\n"}
+,{"stream_name":"stdout","time":8.921865992,"data":"experiments\r\n"}
+,{"stream_name":"stdout","time":8.921869534,"data":"LICENSE\r\n"}
+,{"stream_name":"stdout","time":8.921873047,"data":"pretrained_models\r\n"}
+,{"stream_name":"stdout","time":8.921881635,"data":"prismatic\r\n"}
+,{"stream_name":"stdout","time":9.07949488,"data":"cwd: /kaggle/working/Anchor-Align\n"}
+,{"stream_name":"stdout","time":12.773724979,"data":"  Preparing metadata (setup.py) ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":13.939373327,"data":"  Building wheel for dlimp (setup.py) ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":14.029958941,"data":"DIMP_OK\r\n"}
+,{"stream_name":"stdout","time":26.167736179,"data":"  Installing build dependencies ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":26.674617519999998,"data":"  Getting requirements to build wheel ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":27.231072264,"data":"  Preparing metadata (pyproject.toml) ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":28.242991832,"data":"\u001b[?25l   \u001b[90mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m \u001b[32m0.0/566.4 kB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[91mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m\u001b[91mΓò╕\u001b[0m \u001b[32m563.2/566.4 kB\u001b[0m \u001b[31m25.3 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[90mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m \u001b[32m566.4/566.4 kB\u001b[0m \u001b[31m9.9 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":28.293427878,"data":"\u001b[?25h\u001b[?25l   \u001b[90mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m \u001b[32m0.0/3.6 MB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[91mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m\u001b[91mΓò╕\u001b[0m \u001b[32m3.6/3.6 MB\u001b[0m \u001b[31m185.0 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[91mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m\u001b[91mΓò╕\u001b[0m \u001b[32m3.6/3.6 MB\u001b[0m \u001b[31m185.0 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[90mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m \u001b[32m3.6/3.6 MB\u001b[0m \u001b[31m50.2 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":31.580196937,"data":"\u001b[?25h  Building wheel for transformers (pyproject.toml) ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":42.721065515,"data":"\u001b[31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\r\n"}
+,{"stream_name":"stdout","time":42.721095191,"data":"sentence-transformers 5.4.1 requires transformers\u003c6.0.0,\u003e=4.41.0, but you have transformers 4.40.1 which is incompatible.\u001b[0m\u001b[31m\r\n"}
+,{"stream_name":"stdout","time":42.989021436,"data":"\u001b[0mTRANSFORMERS_OK\r\n"}
+,{"stream_name":"stdout","time":50.609162412,"data":"   ΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü 2.7/2.7 MB 67.2 MB/s eta 0:00:00\r\n"}
+,{"stream_name":"stdout","time":50.609205856,"data":"   ΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü 66.7/66.7 kB 5.3 MB/s eta 0:00:00\r\n"}
+,{"stream_name":"stdout","time":55.416899882,"data":"     ΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü 59.8/59.8 kB 3.0 MB/s eta 0:00:00\r\n"}
+,{"stream_name":"stdout","time":55.416945792,"data":"   ΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü 2.2/2.2 MB 48.1 MB/s eta 0:00:00\r\n"}
+,{"stream_name":"stdout","time":93.452620217,"data":"torch 2.10.0+cu128\r\n"}
+,{"stream_name":"stdout","time":93.452659987,"data":"tf 2.20.0\r\n"}
+,{"stream_name":"stdout","time":93.452664509,"data":"transformers 4.40.1\r\n"}
+,{"stream_name":"stdout","time":93.452667915,"data":"tfds 4.9.9\r\n"}
+,{"stream_name":"stdout","time":97.002793988,"data":"\u003e\u003e downloading BC (VLA-Adapter-Pro) ...\n"}
+,{"stream_name":"stdout","time":109.752086703,"data":"\u003e\u003e downloading AA (libero-spatial) ...\n"}
+,{"stream_name":"stdout","time":122.024924712,"data":"\u003e\u003e downloading base VLM ...\n"}
+,{"stream_name":"stdout","time":130.259855465,"data":"3.0G\t/kaggle/working/ckpts/aa\r\n"}
+,{"stream_name":"stdout","time":130.259897528,"data":"2.5G\t/kaggle/working/ckpts/base\r\n"}
+,{"stream_name":"stdout","time":130.259927777,"data":"2.8G\t/kaggle/working/ckpts/bc\r\n"}
+,{"stream_name":"stdout","time":130.460879227,"data":"\u003e\u003e downloading RLDS libero_spatial_no_noops ...\n"}
+,{"stream_name":"stdout","time":135.818876953,"data":"RLDS: ['1.0.0']\n"}
+,{"stream_name":"stdout","time":135.818919051,"data":"1.8G\t/kaggle/working/Anchor-Align/data/libero/libero_spatial_no_noops\r\n"}
+,{"stream_name":"stdout","time":138.338333705,"data":"torch 2.10.0+cu128 | cuda: True Tesla T4\n"}
+,{"stream_name":"stdout","time":147.792177399,"data":"Using LIBERO constants:\n"}
+,{"stream_name":"stdout","time":147.792210244,"data":"  NUM_ACTIONS_CHUNK = 8\n"}
+,{"stream_name":"stdout","time":147.792216469,"data":"  ACTION_DIM = 7\n"}
+,{"stream_name":"stdout","time":147.79222197,"data":"  PROPRIO_DIM = 8\n"}
+,{"stream_name":"stdout","time":147.792227486,"data":"  ACTION_PROPRIO_NORMALIZATION_TYPE = NormalizationType.BOUNDS_Q99\n"}
+,{"stream_name":"stdout","time":147.792232737,"data":"If needed, manually set the correct constants in `prismatic/vla/constants.py`!\n"}
+,{"stream_name":"stdout","time":148.065903827,"data":"\u003e\u003e\u003e BC (VLA-Adapter-Pro)\n"}
+,{"stream_name":"stdout","time":148.065937036,"data":"Instantiating pretrained VLA policy...\n"}
+,{"stream_name":"stdout","time":184.508388433,"data":"[bc] llm_dim=896\n"}
+,{"stream_name":"stdout","time":184.508885454,"data":"\u003e\u003e\u003e AA (Anchor-Align libero-spatial)\n"}
+,{"stream_name":"stdout","time":184.511219034,"data":"Instantiating pretrained VLA policy...\n"}
+,{"stream_name":"stdout","time":219.465862676,"data":"[libero-spatial] llm_dim=896\n"}
+,{"stream_name":"stdout","time":219.46589976,"data":"\u003e\u003e\u003e base VLM (native Prismatic load, bf16)\n"}
+,{"stream_name":"stdout","time":272.497567584,"data":"Added 256 extra tokens.\n"}
+,{"stream_name":"stdout","time":276.577972123,"data":"lm_head (151936, 896)\n"}
+,{"stream_name":"stdout","time":276.778652605,"data":"\n"}
+,{"stream_name":"stdout","time":276.778680018,"data":"########## STAGE 0: DRIFT DELTA (spatial train frames, all layers) ##########\n"}
+,{"stream_name":"stderr","time":278.29120335,"data":"\r  0%|          | 0/432 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stderr","time":278.390629862,"data":"\r  0%|          | 0/432 [00:00\u003c?, ?it/s]\r  6%|Γûï         | 28/432 [00:00\u003c00:01, 278.34it/s]\n"}
+,{"stream_name":"stderr","time":278.547954802,"data":"\r  6%|Γûï         | 28/432 [00:00\u003c00:01, 278.34it/s]\r 13%|ΓûêΓûÄ        | 56/432 [00:00\u003c00:01, 204.04it/s]\n"}
+,{"stream_name":"stderr","time":278.6554906,"data":"\r 13%|ΓûêΓûÄ        | 56/432 [00:00\u003c00:01, 204.04it/s]\r 27%|ΓûêΓûêΓûï       | 116/432 [00:00\u003c00:00, 346.64it/s]\n"}
+,{"stream_name":"stderr","time":278.761058388,"data":"\r 27%|ΓûêΓûêΓûï       | 116/432 [00:00\u003c00:00, 346.64it/s]\r 41%|ΓûêΓûêΓûêΓûê      | 176/432 [00:00\u003c00:00, 431.18it/s]\n"}
+,{"stream_name":"stderr","time":278.896279451,"data":"\r 41%|ΓûêΓûêΓûêΓûê      | 176/432 [00:00\u003c00:00, 431.18it/s]\r 51%|ΓûêΓûêΓûêΓûêΓûêΓûÅ    | 222/432 [00:00\u003c00:00, 392.34it/s]\n"}
+,{"stream_name":"stderr","time":278.996129969,"data":"\r 51%|ΓûêΓûêΓûêΓûêΓûêΓûÅ    | 222/432 [00:00\u003c00:00, 392.34it/s]\r 64%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûì   | 276/432 [00:00\u003c00:00, 435.72it/s]\n"}
+,{"stream_name":"stderr","time":279.101550566,"data":"\r 64%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûì   | 276/432 [00:00\u003c00:00, 435.72it/s]\r 75%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûì  | 322/432 [00:00\u003c00:00, 431.85it/s]\n"}
+,{"stream_name":"stderr","time":279.201985442,"data":"\r 75%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûì  | 322/432 [00:00\u003c00:00, 431.85it/s]\r 93%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÄ| 400/432 [00:00\u003c00:00, 533.38it/s]\n"}
+,{"stream_name":"stderr","time":279.225139024,"data":"\r 93%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÄ| 400/432 [00:00\u003c00:00, 533.38it/s]\r100%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê| 432/432 [00:00\u003c00:00, 458.45it/s]\n"}
+,{"stream_name":"stderr","time":279.301790886,"data":"\r100%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê| 432/432 [00:00\u003c00:00, 458.45it/s]\n"}
+,{"stream_name":"stderr","time":279.301839809,"data":"\n"}
+,{"stream_name":"stderr","time":279.301859616,"data":"\n"}
+,{"stream_name":"stdout","time":279.918429815,"data":"\n"}
+,{"stream_name":"stdout","time":279.918457156,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":279.91846262,"data":"# Loading the following 1 datasets (incl. sampling weight):                         #\n"}
+,{"stream_name":"stdout","time":279.918466957,"data":"# libero_spatial_no_noops: =================================================1.000000 #\n"}
+,{"stream_name":"stdout","time":279.918471241,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":279.918475328,"data":"\n"}
+,{"stream_name":"stderr","time":285.415515816,"data":"/kaggle/working/Anchor-Align/prismatic/extern/hf/modeling_prismatic.py:974: UserWarning: The given NumPy array is not writable, and PyTorch does not support non-writable tensors. This means writing to this tensor will result in undefined behavior. You may want to copy the array to protect its data or make it writable before converting it to a tensor. This type of warning will be suppressed for the rest of this program. (Triggered internally at /pytorch/torch/csrc/utils/tensor_numpy.cpp:213.)\n"}
+,{"stream_name":"stderr","time":285.415576663,"data":"  proprio = torch.Tensor(proprio).to(projected_patch_embeddings.device, dtype=projected_patch_embeddings.dtype)\n"}
+,{"stream_name":"stderr","time":285.415582089,"data":"\n"}
+,{"stream_name":"stderr","time":285.415585921,"data":"/kaggle/working/Anchor-Align/prismatic/extern/hf/modeling_prismatic.py:974: UserWarning: The given NumPy array is not writable, and PyTorch does not support non-writable tensors. This means writing to this tensor will result in undefined behavior. You may want to copy the array to protect its data or make it writable before converting it to a tensor. This type of warning will be suppressed for the rest of this program. (Triggered internally at /pytorch/torch/csrc/utils/tensor_numpy.cpp:213.)\n"}
+,{"stream_name":"stderr","time":285.415590748,"data":"  proprio = torch.Tensor(proprio).to(projected_patch_embeddings.device, dtype=projected_patch_embeddings.dtype)\n"}
+,{"stream_name":"stdout","time":537.798241975,"data":"delta ready: 200 frames, max_n=30\n"}
+,{"stream_name":"stdout","time":537.988988053,"data":"\n"}
+,{"stream_name":"stdout","time":537.989016417,"data":"########## STAGE 1: NEXT-TOKEN AGREEMENT (vs base, frozen head) ##########\n"}
+,{"stream_name":"stdout","time":538.251605953,"data":"\n"}
+,{"stream_name":"stdout","time":538.251640178,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":538.251646657,"data":"# Loading the following 1 datasets (incl. sampling weight):                         #\n"}
+,{"stream_name":"stdout","time":538.251652171,"data":"# libero_spatial_no_noops: =================================================1.000000 #\n"}
+,{"stream_name":"stdout","time":538.251657341,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":538.251662194,"data":"\n"}
+,{"stream_name":"stdout","time":1147.102557385,"data":"\n"}
+,{"stream_name":"stdout","time":1147.102598007,"data":"=== template 'instruction' (n=200, base top-1 distinct tokens=1) ===\n"}
+,{"stream_name":"stdout","time":1147.102604777,"data":"  base     cos=1.0000 ccos=1.0000 t1=100.0% t5=100.0%\n"}
+,{"stream_name":"stdout","time":1147.102609904,"data":"  bc       cos=0.5321 ccos=0.4721 t1=  0.0% t5=  1.0%\n"}
+,{"stream_name":"stdout","time":1147.102614677,"data":"  aa       cos=0.6560 ccos=0.5812 t1= 12.0% t5= 45.0%\n"}
+,{"stream_name":"stdout","time":1147.102619287,"data":"  bc_p0.25 cos=0.5623 ccos=0.5106 t1=  0.0% t5=  3.5%\n"}
+,{"stream_name":"stdout","time":1147.102634438,"data":"  bc_p1.0  cos=0.6152 ccos=0.5479 t1=  0.0% t5=  0.0%\n"}
+,{"stream_name":"stdout","time":1147.291860628,"data":"\n"}
+,{"stream_name":"stdout","time":1147.291911217,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":1147.291917066,"data":"# Loading the following 1 datasets (incl. sampling weight):                         #\n"}
+,{"stream_name":"stdout","time":1147.291921108,"data":"# libero_spatial_no_noops: =================================================1.000000 #\n"}
+,{"stream_name":"stdout","time":1147.291925266,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":1147.291929773,"data":"\n"}
+,{"stream_name":"stdout","time":1756.17620535,"data":"\n"}
+,{"stream_name":"stdout","time":1756.176247347,"data":"=== template 'object' (n=200, base top-1 distinct tokens=1) ===\n"}
+,{"stream_name":"stdout","time":1756.176253884,"data":"  base     cos=1.0000 ccos=1.0000 t1=100.0% t5=100.0%\n"}
+,{"stream_name":"stdout","time":1756.176258663,"data":"  bc       cos=0.5007 ccos=0.4221 t1=  0.0% t5=  0.0%\n"}
+,{"stream_name":"stdout","time":1756.176264589,"data":"  aa       cos=0.6870 ccos=0.5344 t1=  4.0% t5=  4.5%\n"}
+,{"stream_name":"stdout","time":1756.176272258,"data":"  bc_p0.25 cos=0.5187 ccos=0.4664 t1=  0.0% t5=  0.0%\n"}
+,{"stream_name":"stdout","time":1756.176275649,"data":"  bc_p1.0  cos=0.6014 ccos=0.5154 t1=  0.0% t5=  0.0%\n"}
+,{"stream_name":"stdout","time":1756.637524535,"data":"\n"}
+,{"stream_name":"stdout","time":1756.637561182,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":1756.637567441,"data":"# Loading the following 1 datasets (incl. sampling weight):                         #\n"}
+,{"stream_name":"stdout","time":1756.637572123,"data":"# libero_spatial_no_noops: =================================================1.000000 #\n"}
+,{"stream_name":"stdout","time":1756.637578308,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":1756.637586422,"data":"\n"}
+,{"stream_name":"stdout","time":2364.927828305,"data":"\n"}
+,{"stream_name":"stdout","time":2364.927863764,"data":"=== template 'direction' (n=200, base top-1 distinct tokens=2) ===\n"}
+,{"stream_name":"stdout","time":2364.927868219,"data":"  base     cos=1.0000 ccos=1.0000 t1=100.0% t5=100.0%\n"}
+,{"stream_name":"stdout","time":2364.92787146,"data":"  bc       cos=0.5110 ccos=0.4520 t1=  0.0% t5=  1.0%\n"}
+,{"stream_name":"stdout","time":2364.927874699,"data":"  aa       cos=0.7158 ccos=0.5365 t1=  0.0% t5= 27.5%\n"}
+,{"stream_name":"stdout","time":2364.927877791,"data":"  bc_p0.25 cos=0.5111 ccos=0.4797 t1=  0.0% t5=  2.0%\n"}
+,{"stream_name":"stdout","time":2364.92788081,"data":"  bc_p1.0  cos=0.5928 ccos=0.5111 t1=  0.0% t5=  4.0%\n"}
+,{"stream_name":"stdout","time":2364.927884217,"data":"\n"}
+,{"stream_name":"stdout","time":2364.927903059,"data":"GATES[instruction]: informative=False erasure=True recovery=True\n"}
+,{"stream_name":"stdout","time":2364.927908696,"data":"\n"}
+,{"stream_name":"stdout","time":2364.927913639,"data":"GATES[object]: informative=False erasure=True recovery=True\n"}
+,{"stream_name":"stdout","time":2364.927918866,"data":"\n"}
+,{"stream_name":"stdout","time":2364.927923681,"data":"GATES[direction]: informative=True erasure=True recovery=True\n"}
+,{"stream_name":"stdout","time":2364.927928174,"data":"\n"}
+,{"stream_name":"stdout","time":2364.927939161,"data":"MECHANICS: OK (at least one template must pass all three gates)\n"}
+,{"stream_name":"stdout","time":2364.927942813,"data":"saved: /kaggle/working/e4_results.json\n"}
+,{"stream_name":"stderr","time":2370.700995299,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":2370.701025699,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":2370.854887591,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":2370.854913529,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":2371.478399808,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":2371.972635214,"data":"[NbConvertApp] Writing 953968 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":2374.243703077,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":2375.22762228,"data":"[NbConvertApp] Writing 1101620 bytes to __results__.html\n"}
+]

@@ -1,0 +1,216 @@
+﻿[{"stream_name":"stderr","time":6.467104888,"data":"/usr/local/lib/python3.12/dist-packages/nbformat/__init__.py:96: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.\n"}
+,{"stream_name":"stderr","time":6.467190256,"data":"  validate(nb)\n"}
+,{"stream_name":"stderr","time":7.308115638,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.308160067,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.308165744,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.308170184,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":7.90473755,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.904770082,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.904773785,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.904776307,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":8.991922814,"data":"SMOKE = False\n"}
+,{"stream_name":"stdout","time":10.047430297,"data":"TAR_OK\r\n"}
+,{"stream_name":"stdout","time":10.162276447,"data":"assets\r\n"}
+,{"stream_name":"stdout","time":10.162308658,"data":"CITATION.cff\r\n"}
+,{"stream_name":"stdout","time":10.162328085,"data":"experiments\r\n"}
+,{"stream_name":"stdout","time":10.162332575,"data":"LICENSE\r\n"}
+,{"stream_name":"stdout","time":10.162336681,"data":"pretrained_models\r\n"}
+,{"stream_name":"stdout","time":10.162340769,"data":"prismatic\r\n"}
+,{"stream_name":"stdout","time":10.321053876,"data":"cwd: /kaggle/working/Anchor-Align\n"}
+,{"stream_name":"stdout","time":14.777720574,"data":"  Preparing metadata (setup.py) ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":15.991695836,"data":"  Building wheel for dlimp (setup.py) ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":16.100961582,"data":"DIMP_OK\r\n"}
+,{"stream_name":"stdout","time":28.715284282,"data":"  Installing build dependencies ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":29.323081704,"data":"  Getting requirements to build wheel ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":29.880349739,"data":"  Preparing metadata (pyproject.toml) ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":30.842682833,"data":"\u001b[?25l   \u001b[90mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m \u001b[32m0.0/566.4 kB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[90mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m \u001b[32m566.4/566.4 kB\u001b[0m \u001b[31m18.0 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":30.893410181,"data":"\u001b[?25h\u001b[?25l   \u001b[90mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m \u001b[32m0.0/3.6 MB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[91mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m\u001b[91mΓò╕\u001b[0m \u001b[32m3.6/3.6 MB\u001b[0m \u001b[31m241.1 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[90mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m \u001b[32m3.6/3.6 MB\u001b[0m \u001b[31m97.7 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":34.333418033,"data":"\u001b[?25h  Building wheel for transformers (pyproject.toml) ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":45.970183408,"data":"\u001b[31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\r\n"}
+,{"stream_name":"stdout","time":45.970214816,"data":"sentence-transformers 5.4.1 requires transformers\u003c6.0.0,\u003e=4.41.0, but you have transformers 4.40.1 which is incompatible.\u001b[0m\u001b[31m\r\n"}
+,{"stream_name":"stdout","time":46.2727064,"data":"\u001b[0mTRANSFORMERS_OK\r\n"}
+,{"stream_name":"stdout","time":54.36907555,"data":"   ΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü 2.7/2.7 MB 72.1 MB/s eta 0:00:00\r\n"}
+,{"stream_name":"stdout","time":54.369120238,"data":"   ΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü 66.7/66.7 kB 4.5 MB/s eta 0:00:00\r\n"}
+,{"stream_name":"stdout","time":59.361155122,"data":"     ΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü 59.8/59.8 kB 3.1 MB/s eta 0:00:00\r\n"}
+,{"stream_name":"stdout","time":59.361185648,"data":"   ΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü 2.2/2.2 MB 57.3 MB/s eta 0:00:00\r\n"}
+,{"stream_name":"stdout","time":101.447258058,"data":"torch 2.10.0+cu128\r\n"}
+,{"stream_name":"stdout","time":101.447311822,"data":"tf 2.20.0\r\n"}
+,{"stream_name":"stdout","time":101.447318428,"data":"transformers 4.40.1\r\n"}
+,{"stream_name":"stdout","time":101.447324047,"data":"tfds 4.9.9\r\n"}
+,{"stream_name":"stdout","time":105.388369154,"data":"\u003e\u003e downloading BC (VLA-Adapter-Pro) ...\n"}
+,{"stream_name":"stdout","time":118.283982987,"data":"\u003e\u003e downloading AA (libero-spatial) ...\n"}
+,{"stream_name":"stdout","time":129.656585339,"data":"\u003e\u003e downloading base VLM ...\n"}
+,{"stream_name":"stdout","time":137.707007772,"data":"3.0G\t/kaggle/working/ckpts/aa\r\n"}
+,{"stream_name":"stdout","time":137.707048232,"data":"2.5G\t/kaggle/working/ckpts/base\r\n"}
+,{"stream_name":"stdout","time":137.707055406,"data":"2.8G\t/kaggle/working/ckpts/bc\r\n"}
+,{"stream_name":"stdout","time":137.88698407,"data":"\u003e\u003e downloading RLDS libero_spatial_no_noops ...\n"}
+,{"stream_name":"stdout","time":143.317299404,"data":"RLDS top-level: ['1.0.0']\n"}
+,{"stream_name":"stdout","time":143.317337109,"data":"1.8G\t/kaggle/working/Anchor-Align/data/libero/libero_spatial_no_noops\r\n"}
+,{"stream_name":"stdout","time":145.971886052,"data":"torch 2.10.0+cu128 | cuda: True Tesla T4\n"}
+,{"stream_name":"stdout","time":155.972584598,"data":"Using LIBERO constants:\n"}
+,{"stream_name":"stdout","time":155.97261765,"data":"  NUM_ACTIONS_CHUNK = 8\n"}
+,{"stream_name":"stdout","time":155.972623897,"data":"  ACTION_DIM = 7\n"}
+,{"stream_name":"stdout","time":155.972628932,"data":"  PROPRIO_DIM = 8\n"}
+,{"stream_name":"stdout","time":155.972637817,"data":"  ACTION_PROPRIO_NORMALIZATION_TYPE = NormalizationType.BOUNDS_Q99\n"}
+,{"stream_name":"stdout","time":155.972666828,"data":"If needed, manually set the correct constants in `prismatic/vla/constants.py`!\n"}
+,{"stream_name":"stdout","time":156.280428202,"data":"\u003e\u003e\u003e BC (VLA-Adapter-Pro)\n"}
+,{"stream_name":"stdout","time":156.28046317,"data":"Instantiating pretrained VLA policy...\n"}
+,{"stream_name":"stdout","time":195.112976899,"data":"[bc] llm_dim=896 norm_keys=['libero_spatial_no_noops']\n"}
+,{"stream_name":"stdout","time":195.113017764,"data":"\u003e\u003e\u003e AA (Anchor-Align libero-spatial)\n"}
+,{"stream_name":"stdout","time":195.113025208,"data":"Instantiating pretrained VLA policy...\n"}
+,{"stream_name":"stdout","time":232.661847564,"data":"[libero-spatial] llm_dim=896 norm_keys=['libero_spatial_no_noops']\n"}
+,{"stream_name":"stdout","time":232.661884686,"data":"\u003e\u003e\u003e base VLM (native Prismatic load, bf16)\n"}
+,{"stream_name":"stdout","time":283.359189013,"data":"Added 256 extra tokens.\n"}
+,{"stream_name":"stdout","time":287.30726024,"data":"\n"}
+,{"stream_name":"stdout","time":287.307285423,"data":"########## STAGE 1: PER-FRAME DRIFT SPECTRA (train frames) ##########\n"}
+,{"stream_name":"stderr","time":288.847004348,"data":"\r  0%|          | 0/432 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stderr","time":288.9449046,"data":"\r  0%|          | 0/432 [00:00\u003c?, ?it/s]\r  2%|ΓûÅ         | 10/432 [00:00\u003c00:04, 96.50it/s]\n"}
+,{"stream_name":"stderr","time":289.042019023,"data":"\r  2%|ΓûÅ         | 10/432 [00:00\u003c00:04, 96.50it/s]\r  8%|Γûè         | 35/432 [00:00\u003c00:02, 185.45it/s]\n"}
+,{"stream_name":"stderr","time":289.143430169,"data":"\r  8%|Γûè         | 35/432 [00:00\u003c00:02, 185.45it/s]\r 16%|ΓûêΓûî        | 69/432 [00:00\u003c00:01, 253.20it/s]\n"}
+,{"stream_name":"stderr","time":289.251742362,"data":"\r 16%|ΓûêΓûî        | 69/432 [00:00\u003c00:01, 253.20it/s]\r 29%|ΓûêΓûêΓûë       | 126/432 [00:00\u003c00:00, 375.77it/s]\n"}
+,{"stream_name":"stderr","time":289.351361971,"data":"\r 29%|ΓûêΓûêΓûë       | 126/432 [00:00\u003c00:00, 375.77it/s]\r 40%|ΓûêΓûêΓûêΓûë      | 172/432 [00:00\u003c00:00, 403.06it/s]\n"}
+,{"stream_name":"stderr","time":289.499119536,"data":"\r 40%|ΓûêΓûêΓûêΓûë      | 172/432 [00:00\u003c00:00, 403.06it/s]\r 49%|ΓûêΓûêΓûêΓûêΓûë     | 213/432 [00:00\u003c00:00, 346.17it/s]\n"}
+,{"stream_name":"stderr","time":289.602568532,"data":"\r 49%|ΓûêΓûêΓûêΓûêΓûë     | 213/432 [00:00\u003c00:00, 346.17it/s]\r 62%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ   | 269/432 [00:00\u003c00:00, 404.40it/s]\n"}
+,{"stream_name":"stderr","time":289.710181295,"data":"\r 62%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ   | 269/432 [00:00\u003c00:00, 404.40it/s]\r 74%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûì  | 320/432 [00:00\u003c00:00, 431.86it/s]\n"}
+,{"stream_name":"stderr","time":289.805759339,"data":"\r 74%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûì  | 320/432 [00:00\u003c00:00, 431.86it/s]\r 86%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûï | 373/432 [00:00\u003c00:00, 458.04it/s]\n"}
+,{"stream_name":"stderr","time":289.858558103,"data":"\r 86%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûï | 373/432 [00:00\u003c00:00, 458.04it/s]\r100%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê| 432/432 [00:01\u003c00:00, 423.12it/s]\n"}
+,{"stream_name":"stderr","time":289.902631805,"data":"\r100%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê| 432/432 [00:01\u003c00:00, 423.12it/s]\n"}
+,{"stream_name":"stderr","time":289.90265566,"data":"\n"}
+,{"stream_name":"stderr","time":289.902701027,"data":"\n"}
+,{"stream_name":"stdout","time":290.814839473,"data":"\n"}
+,{"stream_name":"stdout","time":290.814866486,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":290.814877739,"data":"# Loading the following 1 datasets (incl. sampling weight):                         #\n"}
+,{"stream_name":"stdout","time":290.814890847,"data":"# libero_spatial_no_noops: =================================================1.000000 #\n"}
+,{"stream_name":"stdout","time":290.814893461,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":290.814895806,"data":"\n"}
+,{"stream_name":"stderr","time":296.65810068,"data":"/kaggle/working/Anchor-Align/prismatic/extern/hf/modeling_prismatic.py:974: UserWarning: The given NumPy array is not writable, and PyTorch does not support non-writable tensors. This means writing to this tensor will result in undefined behavior. You may want to copy the array to protect its data or make it writable before converting it to a tensor. This type of warning will be suppressed for the rest of this program. (Triggered internally at /pytorch/torch/csrc/utils/tensor_numpy.cpp:213.)\n"}
+,{"stream_name":"stderr","time":296.658141079,"data":"  proprio = torch.Tensor(proprio).to(projected_patch_embeddings.device, dtype=projected_patch_embeddings.dtype)\n"}
+,{"stream_name":"stderr","time":296.658147608,"data":"\n"}
+,{"stream_name":"stderr","time":296.658152871,"data":"/kaggle/working/Anchor-Align/prismatic/extern/hf/modeling_prismatic.py:974: UserWarning: The given NumPy array is not writable, and PyTorch does not support non-writable tensors. This means writing to this tensor will result in undefined behavior. You may want to copy the array to protect its data or make it writable before converting it to a tensor. This type of warning will be suppressed for the rest of this program. (Triggered internally at /pytorch/torch/csrc/utils/tensor_numpy.cpp:213.)\n"}
+,{"stream_name":"stderr","time":296.658159436,"data":"  proprio = torch.Tensor(proprio).to(projected_patch_embeddings.device, dtype=projected_patch_embeddings.dtype)\n"}
+,{"stream_name":"stdout","time":879.961614966,"data":"used frames: 400\n"}
+,{"stream_name":"stdout","time":879.961794994,"data":"=== per-layer SVD of the (frames x 896) drift matrix at each aggregate ===\n"}
+,{"stream_name":"stdout","time":879.961807125,"data":"  layer |                    pre |                   text |                    vis\n"}
+,{"stream_name":"stdout","time":879.961824957,"data":"        |       PR    E1%    E8% |       PR    E1%    E8% |       PR    E1%    E8%\n"}
+,{"stream_name":"stdout","time":880.325228594,"data":"      0 |      1.7  75.6%  92.8% |      1.5  81.9%  94.8% |      7.3  30.5%  75.8%\n"}
+,{"stream_name":"stdout","time":880.325264348,"data":"      1 |      5.4  39.5%  77.0% |      4.8  41.6%  80.0% |      7.2  31.4%  75.6%\n"}
+,{"stream_name":"stdout","time":880.325271223,"data":"      2 |      5.9  36.5%  76.6% |      4.8  41.7%  79.0% |      7.4  30.6%  74.8%\n"}
+,{"stream_name":"stdout","time":880.550673998,"data":"      3 |      6.7  33.8%  73.3% |      4.7  42.6%  79.8% |      7.4  30.7%  74.9%\n"}
+,{"stream_name":"stdout","time":880.550709666,"data":"      4 |      8.1  28.3%  71.4% |      8.5  24.8%  72.9% |      7.9  28.8%  74.9%\n"}
+,{"stream_name":"stdout","time":880.550736172,"data":"      5 |     12.8  18.3%  63.4% |     13.1  17.9%  63.7% |      8.8  27.7%  71.8%\n"}
+,{"stream_name":"stdout","time":880.771749108,"data":"      6 |     17.7  13.1%  57.4% |     15.0  18.5%  59.6% |     10.8  23.0%  68.5%\n"}
+,{"stream_name":"stdout","time":880.77178237,"data":"      7 |     20.0  12.8%  53.4% |     15.3  18.8%  58.1% |     10.0  25.0%  69.0%\n"}
+,{"stream_name":"stdout","time":880.771794139,"data":"      8 |     21.2  12.9%  52.2% |     15.2  19.0%  57.8% |      9.8  25.6%  69.4%\n"}
+,{"stream_name":"stdout","time":880.990819841,"data":"      9 |     22.1  13.2%  50.5% |     13.7  21.6%  58.1% |      9.6  26.1%  69.6%\n"}
+,{"stream_name":"stdout","time":880.990900892,"data":"     10 |     23.7  13.3%  48.3% |     15.3  19.8%  55.5% |     10.2  25.4%  67.7%\n"}
+,{"stream_name":"stdout","time":880.990908122,"data":"     11 |     25.9  12.8%  46.0% |     15.5  19.7%  54.5% |     10.2  25.6%  67.2%\n"}
+,{"stream_name":"stdout","time":881.20975227,"data":"     12 |     25.8  13.1%  45.3% |     14.8  20.5%  54.6% |     10.1  25.9%  67.1%\n"}
+,{"stream_name":"stdout","time":881.209789988,"data":"     13 |     27.5  12.6%  44.0% |     14.5  20.8%  54.9% |      9.9  26.3%  66.6%\n"}
+,{"stream_name":"stdout","time":881.209793754,"data":"     14 |     29.6   9.9%  43.3% |     19.7  15.5%  50.8% |     11.9  23.0%  62.0%\n"}
+,{"stream_name":"stdout","time":881.427234588,"data":"     15 |     32.0   9.5%  41.8% |     22.1  13.8%  49.0% |     11.6  23.6%  61.9%\n"}
+,{"stream_name":"stdout","time":881.427271656,"data":"     16 |     34.1   9.0%  40.0% |     24.7  13.1%  45.5% |     13.6  20.6%  58.4%\n"}
+,{"stream_name":"stdout","time":881.427276138,"data":"     17 |     33.3   9.6%  39.8% |     24.7  13.1%  45.4% |     13.7  20.4%  58.6%\n"}
+,{"stream_name":"stdout","time":881.644566675,"data":"     18 |     38.5   8.5%  36.5% |     28.7  11.6%  42.2% |     14.5  19.7%  56.8%\n"}
+,{"stream_name":"stdout","time":881.644614448,"data":"     19 |     41.1   7.8%  35.2% |     29.6  11.2%  41.6% |     13.3  21.2%  58.1%\n"}
+,{"stream_name":"stdout","time":881.64462013,"data":"     20 |     30.1  10.9%  41.0% |     23.2  12.5%  47.2% |     12.1  21.9%  60.8%\n"}
+,{"stream_name":"stdout","time":881.806205523,"data":"     21 |     23.0  13.2%  47.0% |     19.1  14.7%  51.8% |     10.8  23.4%  64.0%\n"}
+,{"stream_name":"stdout","time":881.806236511,"data":"     22 |     23.2  13.3%  47.5% |     18.8  15.4%  52.2% |      9.9  25.0%  65.9%\n"}
+,{"stream_name":"stdout","time":881.806243658,"data":"     23 |     16.7  16.1%  57.8% |     14.4  18.7%  60.2% |      8.3  27.9%  71.1%\n"}
+,{"stream_name":"stdout","time":881.806249059,"data":"deep6 top-1 energy: pre=11.7% vis=23.2% (high = drift shared across frames, supports mean-drift bundles)\n"}
+,{"stream_name":"stdout","time":881.864551943,"data":"\n"}
+,{"stream_name":"stdout","time":881.864575992,"data":"########## STAGE 2: MEAN-DELTA SVD PER LAYER/REGION ##########\n"}
+,{"stream_name":"stdout","time":882.355197744,"data":"\n"}
+,{"stream_name":"stdout","time":882.355255654,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":882.355278127,"data":"# Loading the following 1 datasets (incl. sampling weight):                         #\n"}
+,{"stream_name":"stdout","time":882.355282853,"data":"# libero_spatial_no_noops: =================================================1.000000 #\n"}
+,{"stream_name":"stdout","time":882.35528667,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":882.355307438,"data":"\n"}
+,{"stream_name":"stdout","time":1442.310019681,"data":"  layer |  vis: PR    E1%    E8%   E32% | text: PR    E1%    E8%   E32%\n"}
+,{"stream_name":"stdout","time":1442.310054049,"data":"      0 |      6.9  33.4%  71.1%  90.0% |      5.2  40.7%  78.3% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.31006054,"data":"      1 |      6.9  33.1%  71.3%  89.9% |      4.1  47.2%  81.0% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.310065695,"data":"      2 |      7.1  32.5%  70.8%  89.6% |      5.1  41.1%  79.2% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.310070304,"data":"      3 |      7.2  32.4%  71.4%  89.9% |      5.7  38.1%  77.5% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.310080777,"data":"      4 |      6.7  34.0%  73.0%  90.5% |      4.8  42.8%  79.2% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.52607808,"data":"      5 |      6.8  33.2%  72.8%  90.5% |      4.8  42.4%  81.1% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.526117289,"data":"      6 |      6.4  34.6%  73.5%  90.7% |      4.4  44.9%  81.8% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.526124384,"data":"      7 |      6.7  33.5%  72.9%  90.6% |      5.4  39.3%  79.4% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.526129663,"data":"      8 |      6.8  33.4%  72.5%  89.9% |      5.0  41.2%  80.7% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.526133909,"data":"      9 |      6.4  34.5%  73.5%  90.4% |      5.4  38.8%  80.8% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.526140333,"data":"     10 |      6.1  36.1%  73.9%  90.5% |      4.8  41.9%  83.0% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.526148734,"data":"     11 |      5.8  37.0%  74.8%  91.1% |      4.8  41.9%  83.0% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.754518046,"data":"     12 |      5.7  37.5%  75.2%  91.4% |      4.0  47.2%  85.0% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.754556107,"data":"     13 |      5.4  38.9%  76.1%  91.8% |      3.7  49.5%  86.2% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.754560595,"data":"     14 |      5.0  40.9%  77.3%  92.3% |      2.8  58.4%  89.0% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.754564061,"data":"     15 |      5.2  39.6%  77.0%  92.3% |      2.3  64.2%  90.8% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.754567564,"data":"     16 |      4.5  43.9%  78.0%  92.5% |      2.1  68.7%  91.4% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.754571332,"data":"     17 |      3.7  50.0%  80.3%  93.2% |      1.9  71.8%  91.9% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.754574706,"data":"     18 |      3.3  53.3%  81.9%  93.6% |      1.9  71.4%  91.7% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.984139217,"data":"     19 |      3.2  54.4%  82.8%  93.9% |      1.9  71.7%  91.8% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.984169785,"data":"     20 |      2.6  60.2%  85.6%  94.9% |      1.9  71.6%  92.1% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.984176217,"data":"     21 |      2.3  64.5%  89.0%  96.1% |      1.7  76.9%  93.8% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.984180554,"data":"     22 |      1.8  73.7%  92.3%  97.2% |      1.7  75.6%  93.7% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.984184505,"data":"     23 |      1.3  88.2%  96.4%  98.8% |      1.6  79.1%  95.4% 100.0%\n"}
+,{"stream_name":"stdout","time":1442.984188591,"data":"=== top-k reconstruction error (deep6 mean, Frobenius, relative) ===\n"}
+,{"stream_name":"stdout","time":1443.021306338,"data":"  k=   1: rel err =  53.95%\n"}
+,{"stream_name":"stdout","time":1443.021331089,"data":"  k=   4: rel err =  39.13%\n"}
+,{"stream_name":"stdout","time":1443.021336646,"data":"  k=   8: rel err =  29.90%\n"}
+,{"stream_name":"stdout","time":1443.021340353,"data":"  k=  16: rel err =  19.39%\n"}
+,{"stream_name":"stdout","time":1443.021343765,"data":"  k=  32: rel err =   9.98%\n"}
+,{"stream_name":"stdout","time":1443.021347074,"data":"  k=full: rel err =   0.00%\n"}
+,{"stream_name":"stdout","time":1443.021350673,"data":"  (monotone decreasing = reconstruction math correct)\n"}
+,{"stream_name":"stdout","time":1443.209489767,"data":"\n"}
+,{"stream_name":"stdout","time":1443.20951448,"data":"########## STAGE 3: TOP-K RECOVERY (eval frames, deep6, alpha=1.0) ##########\n"}
+,{"stream_name":"stdout","time":1443.470298174,"data":"\n"}
+,{"stream_name":"stdout","time":1443.470334525,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":1443.47033875,"data":"# Loading the following 1 datasets (incl. sampling weight):                         #\n"}
+,{"stream_name":"stdout","time":1443.470369717,"data":"# libero_spatial_no_noops: =================================================1.000000 #\n"}
+,{"stream_name":"stdout","time":1443.470375333,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":1443.470379872,"data":"\n"}
+,{"stream_name":"stdout","time":1447.597791572,"data":"cached 60 eval frames\n"}
+,{"stream_name":"stdout","time":1447.597832362,"data":"configs: ['row_bc_a0', 'bc_k1', 'bc_k4', 'bc_k8', 'bc_k16', 'bc_k32', 'bc_kfull']\n"}
+,{"stream_name":"stdout","time":1503.684980122,"data":"  eval frame 10/60 elapsed=56s\n"}
+,{"stream_name":"stdout","time":1559.355910026,"data":"  eval frame 20/60 elapsed=112s\n"}
+,{"stream_name":"stdout","time":1615.070881223,"data":"  eval frame 30/60 elapsed=167s\n"}
+,{"stream_name":"stdout","time":1670.6514924,"data":"  eval frame 40/60 elapsed=223s\n"}
+,{"stream_name":"stdout","time":1726.370919469,"data":"  eval frame 50/60 elapsed=279s\n"}
+,{"stream_name":"stdout","time":1781.968127966,"data":"  eval frame 60/60 elapsed=335s\n"}
+,{"stream_name":"stdout","time":1781.968156788,"data":"\n"}
+,{"stream_name":"stdout","time":1781.968163065,"data":"=== TOP-K RECOVERY ===\n"}
+,{"stream_name":"stdout","time":1781.968176167,"data":"        config | text deep  text l24  vis deep   AP%     L2\n"}
+,{"stream_name":"stdout","time":1781.968180108,"data":"     row_bc_a0 |     95.8%     91.5%     44.9%   80%  0.464\n"}
+,{"stream_name":"stdout","time":1781.968183639,"data":"         bc_k1 |     95.7%     91.1%     47.2%   90%  1.452\n"}
+,{"stream_name":"stdout","time":1781.96818742,"data":"         bc_k4 |     86.7%     75.7%     52.6%   90%  1.674\n"}
+,{"stream_name":"stdout","time":1781.968191001,"data":"         bc_k8 |     93.4%     89.1%     57.3%   83%  1.990\n"}
+,{"stream_name":"stdout","time":1781.968194504,"data":"        bc_k16 |     95.9%     91.9%     59.4%   85%  1.996\n"}
+,{"stream_name":"stdout","time":1781.968197954,"data":"        bc_k32 |     95.9%     91.9%     60.1%   87%  1.993\n"}
+,{"stream_name":"stdout","time":1781.968202123,"data":"      bc_kfull |     95.9%     91.9%     60.9%   83%  1.928\n"}
+,{"stream_name":"stdout","time":1781.968223479,"data":"\n"}
+,{"stream_name":"stdout","time":1781.968229772,"data":"MECHANICS: k=full vs E1 reference (deep6 a1.0): vis 60.9% (expect ~62%), text l24 91.9% (expect ~91%)\n"}
+,{"stream_name":"stdout","time":1782.150937516,"data":"\n"}
+,{"stream_name":"stdout","time":1782.150973193,"data":"########## STAGE 4: DEPTH PROFILE vs CKA COLLAPSE ##########\n"}
+,{"stream_name":"stdout","time":1783.467197048,"data":"  CKA curve (bc vs base, eval frames): 100  99  98  98  97  98  97  95  97  97  96  96  96  95  95  92  92  93  93  91  92  84  63  47  59\n"}
+,{"stream_name":"stdout","time":1783.467230673,"data":"  drift norm per layer: 244 249 250 246 267 255 269 264 267 279 287 293 302 314 322 332 411 475 525 594 719 890 1160 5029\n"}
+,{"stream_name":"stdout","time":1783.467237557,"data":"  Pearson r(drift norm, CKA-drop) = +0.670  (positive = drift concentrates where erasure happens)\n"}
+,{"stream_name":"stdout","time":1783.653415219,"data":"\n"}
+,{"stream_name":"stdout","time":1783.653454264,"data":"########## STAGE 5: WEIGHT-SPACE DRIFT (secondary) ##########\n"}
+,{"stream_name":"stdout","time":1784.909763379,"data":"AA LoRA adapter: 383 lora_B matrices, layers 0..23\n"}
+,{"stream_name":"stdout","time":1784.909821822,"data":"  top-8 singular values of B@A per layer (sorted desc, first 8 of the stack):\n"}
+,{"stream_name":"stdout","time":1787.142425218,"data":"    layer 0: 4.06 2.21 1.70 1.12 0.98 0.76 0.70 0.69\n"}
+,{"stream_name":"stdout","time":1789.20674269,"data":"    layer 1: 3.75 1.87 1.31 1.24 1.19 1.11 1.02 1.00\n"}
+,{"stream_name":"stdout","time":1791.286423819,"data":"    layer 2: 1.40 1.35 1.04 1.01 0.98 0.88 0.84 0.82\n"}
+,{"stream_name":"stdout","time":1793.383252355,"data":"    layer 3: 1.18 1.11 1.07 0.93 0.91 0.86 0.85 0.82\n"}
+,{"stream_name":"stdout","time":1795.434512768,"data":"    layer 4: 1.33 1.23 1.08 0.96 0.96 0.89 0.84 0.82\n"}
+,{"stream_name":"stdout","time":1797.471720605,"data":"    layer 5: 2.10 1.72 1.33 1.23 1.10 1.09 1.07 1.00\n"}
+,{"stream_name":"stdout","time":1797.471753681,"data":"BC merged 216 layer weights; base 216 layer weights (sanity only, dtype caveat)\n"}
+,{"stream_name":"stdout","time":1797.471760587,"data":"  layer 21 q_proj drift: top1=3.347 PR=5.6 E8=85.7%\n"}
+,{"stream_name":"stdout","time":1797.599956606,"data":"  layer 23 q_proj drift: top1=3.378 PR=6.8 E8=81.0%\n"}
+,{"stream_name":"stdout","time":1797.637202816,"data":"saved: /kaggle/working/e2_results.json\n"}
+,{"stream_name":"stderr","time":1806.696645448,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":1806.696688207,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":1807.009367746,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":1807.009397426,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":1808.63259703,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":1809.177605478,"data":"[NbConvertApp] Writing 961661 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":1811.613886505,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":1813.107183923,"data":"[NbConvertApp] Writing 1164389 bytes to __results__.html\n"}
+]

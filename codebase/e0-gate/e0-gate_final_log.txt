@@ -1,0 +1,187 @@
+﻿[{"stream_name":"stderr","time":5.456281522,"data":"/usr/local/lib/python3.12/dist-packages/nbformat/__init__.py:96: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.\n"}
+,{"stream_name":"stderr","time":5.456364667,"data":"  validate(nb)\n"}
+,{"stream_name":"stderr","time":6.190084939,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":6.190114901,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":6.190118236,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":6.190120696,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":6.742594445,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":6.742637748,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":6.742643409,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":6.742648883,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":7.740184126,"data":"SMOKE = True\n"}
+,{"stream_name":"stdout","time":9.216273627,"data":"TAR_OK\r\n"}
+,{"stream_name":"stdout","time":9.329513306,"data":"assets\r\n"}
+,{"stream_name":"stdout","time":9.32953784,"data":"CITATION.cff\r\n"}
+,{"stream_name":"stdout","time":9.329547917,"data":"experiments\r\n"}
+,{"stream_name":"stdout","time":9.329550525,"data":"LICENSE\r\n"}
+,{"stream_name":"stdout","time":9.329552785,"data":"pretrained_models\r\n"}
+,{"stream_name":"stdout","time":9.329555556,"data":"prismatic\r\n"}
+,{"stream_name":"stdout","time":9.487460877,"data":"cwd: /kaggle/working/Anchor-Align\n"}
+,{"stream_name":"stdout","time":13.385140712,"data":"  Preparing metadata (setup.py) ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":14.650470456,"data":"  Building wheel for dlimp (setup.py) ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":14.727977921,"data":"DIMP_OK\r\n"}
+,{"stream_name":"stdout","time":27.253383138,"data":"  Installing build dependencies ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":27.81195097,"data":"  Getting requirements to build wheel ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":28.318418442,"data":"  Preparing metadata (pyproject.toml) ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":29.279790352,"data":"\u001b[?25l   \u001b[90mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m \u001b[32m0.0/566.4 kB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[90mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m \u001b[32m566.4/566.4 kB\u001b[0m \u001b[31m21.0 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":29.330564943,"data":"\u001b[?25h\u001b[?25l   \u001b[90mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m \u001b[32m0.0/3.6 MB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[91mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m\u001b[91mΓò╕\u001b[0m \u001b[32m3.6/3.6 MB\u001b[0m \u001b[31m229.6 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[90mΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü\u001b[0m \u001b[32m3.6/3.6 MB\u001b[0m \u001b[31m97.4 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":32.774947891,"data":"\u001b[?25h  Building wheel for transformers (pyproject.toml) ... \u001b[?25l\u001b[?25hdone\r\n"}
+,{"stream_name":"stdout","time":43.707964533,"data":"\u001b[31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\r\n"}
+,{"stream_name":"stdout","time":43.708000724,"data":"sentence-transformers 5.4.1 requires transformers\u003c6.0.0,\u003e=4.41.0, but you have transformers 4.40.1 which is incompatible.\u001b[0m\u001b[31m\r\n"}
+,{"stream_name":"stdout","time":43.985827294,"data":"\u001b[0mTRANSFORMERS_OK\r\n"}
+,{"stream_name":"stdout","time":51.846543241,"data":"   ΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü 2.7/2.7 MB 80.1 MB/s eta 0:00:00\r\n"}
+,{"stream_name":"stdout","time":51.846570939,"data":"   ΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü 66.7/66.7 kB 6.1 MB/s eta 0:00:00\r\n"}
+,{"stream_name":"stdout","time":56.615178817,"data":"     ΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü 59.8/59.8 kB 3.9 MB/s eta 0:00:00\r\n"}
+,{"stream_name":"stdout","time":56.615222955,"data":"   ΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöüΓöü 2.2/2.2 MB 61.7 MB/s eta 0:00:00\r\n"}
+,{"stream_name":"stdout","time":94.791541437,"data":"torch 2.10.0+cu128\r\n"}
+,{"stream_name":"stdout","time":94.791575189,"data":"tf 2.20.0\r\n"}
+,{"stream_name":"stdout","time":94.791580822,"data":"transformers 4.40.1\r\n"}
+,{"stream_name":"stdout","time":94.791585357,"data":"tokenizers 0.19.1\r\n"}
+,{"stream_name":"stdout","time":94.791589649,"data":"timm 0.9.10\r\n"}
+,{"stream_name":"stdout","time":94.791593854,"data":"tfds 4.9.9\r\n"}
+,{"stream_name":"stdout","time":94.791598686,"data":"dlimp ?\r\n"}
+,{"stream_name":"stdout","time":98.310116401,"data":"\u003e\u003e downloading BC (VLA-Adapter-Pro) ...\n"}
+,{"stream_name":"stdout","time":110.827893335,"data":"BC files: ['.cache', '.gitattributes', 'Inference--Spatial_Pro--99.6.log', 'README.md', 'action_head--checkpoint.pt', 'added_tokens.json', 'config.json', 'configuration_prismatic.py', 'dataset_statistics.json', 'generation_config.json', 'merges.txt', 'model.safetensors', 'modeling_prismatic.py', 'preprocessor_config.json', 'processing_prismatic.py', 'processor_config.json', 'proprio_projector--checkpoint.pt', 'special_tokens_map.json', 'tokenizer.json', 'tokenizer_config.json', 'vocab.json']\n"}
+,{"stream_name":"stdout","time":110.827929059,"data":"\u003e\u003e downloading AA (libero-spatial) ...\n"}
+,{"stream_name":"stdout","time":123.267904438,"data":"AA files: ['MODEL_CARD.md', 'action_head--10000_checkpoint.pt', 'added_tokens.json', 'align_dir_proj--10000_checkpoint.pt', 'config.json', 'dataset_statistics.json', 'generation_config.json', 'lora_adapter', 'merges.txt', 'model.safetensors', 'preprocessor_config.json', 'processing_prismatic.py', 'processor_config.json', 'proprio_projector--10000_checkpoint.pt', 'special_tokens_map.json', 'tokenizer.json', 'tokenizer_config.json', 'vocab.json']\n"}
+,{"stream_name":"stdout","time":123.267982125,"data":"AA has align_dir_proj: True\n"}
+,{"stream_name":"stdout","time":123.267989933,"data":"\u003e\u003e downloading base VLM ...\n"}
+,{"stream_name":"stdout","time":135.570069432,"data":"base files: ['.cache', 'checkpoints', 'config.json', 'config.yaml']\n"}
+,{"stream_name":"stdout","time":135.570101269,"data":"3.0G\t/kaggle/working/ckpts/aa\r\n"}
+,{"stream_name":"stdout","time":135.570106498,"data":"2.5G\t/kaggle/working/ckpts/base\r\n"}
+,{"stream_name":"stdout","time":135.570114427,"data":"2.8G\t/kaggle/working/ckpts/bc\r\n"}
+,{"stream_name":"stdout","time":135.758173321,"data":"\u003e\u003e downloading RLDS libero_spatial_no_noops ...\n"}
+,{"stream_name":"stdout","time":140.854548801,"data":"RLDS top-level: ['1.0.0']\n"}
+,{"stream_name":"stdout","time":140.854590423,"data":"1.8G\t/kaggle/working/Anchor-Align/data/libero/libero_spatial_no_noops\r\n"}
+,{"stream_name":"stdout","time":143.459641144,"data":"torch 2.10.0+cu128 | cuda: True Tesla T4\n"}
+,{"stream_name":"stdout","time":153.433060445,"data":"Using LIBERO constants:\n"}
+,{"stream_name":"stdout","time":153.433093077,"data":"  NUM_ACTIONS_CHUNK = 8\n"}
+,{"stream_name":"stdout","time":153.433097282,"data":"  ACTION_DIM = 7\n"}
+,{"stream_name":"stdout","time":153.433100515,"data":"  PROPRIO_DIM = 8\n"}
+,{"stream_name":"stdout","time":153.433103618,"data":"  ACTION_PROPRIO_NORMALIZATION_TYPE = NormalizationType.BOUNDS_Q99\n"}
+,{"stream_name":"stdout","time":153.433106922,"data":"If needed, manually set the correct constants in `prismatic/vla/constants.py`!\n"}
+,{"stream_name":"stdout","time":153.729069483,"data":"\u003e\u003e\u003e BC (VLA-Adapter-Pro)\n"}
+,{"stream_name":"stdout","time":153.729106411,"data":"Instantiating pretrained VLA policy...\n"}
+,{"stream_name":"stdout","time":191.56803082,"data":"[bc] llm_dim=896 lm_head=Linear has_w=True norm_keys=['libero_spatial_no_noops']\n"}
+,{"stream_name":"stdout","time":191.570415937,"data":"\u003e\u003e\u003e AA (Anchor-Align libero-spatial)\n"}
+,{"stream_name":"stdout","time":191.570433116,"data":"Instantiating pretrained VLA policy...\n"}
+,{"stream_name":"stdout","time":228.033065027,"data":"[libero-spatial] llm_dim=896 lm_head=Linear has_w=True norm_keys=['libero_spatial_no_noops']\n"}
+,{"stream_name":"stdout","time":228.061165681,"data":"\u003e\u003e\u003e base VLM (native Prismatic load)\n"}
+,{"stream_name":"stdout","time":286.685698926,"data":"Added 256 extra tokens.\n"}
+,{"stream_name":"stdout","time":290.12207792,"data":"lm_head (151936, 896) torch.float32\n"}
+,{"stream_name":"stdout","time":290.122106809,"data":"dir_ids (base tokenizer): {'forward': 13435, 'backward': 81196, 'left': 2359, 'right': 1291, 'up': 454, 'down': 2923}\n"}
+,{"stream_name":"stdout","time":290.122113036,"data":"  bc ckpt-tokenizer ids == base: True {'forward': 13435, 'backward': 81196, 'left': 2359, 'right': 1291, 'up': 454, 'down': 2923}\n"}
+,{"stream_name":"stdout","time":290.122118089,"data":"  aa ckpt-tokenizer ids == base: True {'forward': 13435, 'backward': 81196, 'left': 2359, 'right': 1291, 'up': 454, 'down': 2923}\n"}
+,{"stream_name":"stderr","time":291.733500523,"data":"\r  0%|          | 0/432 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stderr","time":291.859960371,"data":"\r  0%|          | 0/432 [00:00\u003c?, ?it/s]\r  4%|ΓûÄ         | 16/432 [00:00\u003c00:03, 137.43it/s]\n"}
+,{"stream_name":"stderr","time":291.952186919,"data":"\r  4%|ΓûÄ         | 16/432 [00:00\u003c00:03, 137.43it/s]\r  9%|Γûë         | 41/432 [00:00\u003c00:02, 193.11it/s]\n"}
+,{"stream_name":"stderr","time":292.075606737,"data":"\r  9%|Γûë         | 41/432 [00:00\u003c00:02, 193.11it/s]\r 14%|ΓûêΓûì        | 61/432 [00:00\u003c00:01, 185.72it/s]\n"}
+,{"stream_name":"stderr","time":292.171309997,"data":"\r 14%|ΓûêΓûì        | 61/432 [00:00\u003c00:01, 185.72it/s]\r 26%|ΓûêΓûêΓûî       | 112/432 [00:00\u003c00:01, 305.06it/s]\n"}
+,{"stream_name":"stderr","time":292.270566518,"data":"\r 26%|ΓûêΓûêΓûî       | 112/432 [00:00\u003c00:01, 305.06it/s]\r 37%|ΓûêΓûêΓûêΓûï      | 161/432 [00:00\u003c00:00, 365.82it/s]\n"}
+,{"stream_name":"stderr","time":292.375478359,"data":"\r 37%|ΓûêΓûêΓûêΓûï      | 161/432 [00:00\u003c00:00, 365.82it/s]\r 49%|ΓûêΓûêΓûêΓûêΓûë     | 212/432 [00:00\u003c00:00, 409.12it/s]\n"}
+,{"stream_name":"stderr","time":292.469539571,"data":"\r 49%|ΓûêΓûêΓûêΓûêΓûë     | 212/432 [00:00\u003c00:00, 409.12it/s]\r 60%|ΓûêΓûêΓûêΓûêΓûêΓûë    | 258/432 [00:00\u003c00:00, 424.92it/s]\n"}
+,{"stream_name":"stderr","time":292.628679046,"data":"\r 60%|ΓûêΓûêΓûêΓûêΓûêΓûë    | 258/432 [00:00\u003c00:00, 424.92it/s]\r 70%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûë   | 301/432 [00:00\u003c00:00, 361.18it/s]\n"}
+,{"stream_name":"stderr","time":292.729911519,"data":"\r 70%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûë   | 301/432 [00:00\u003c00:00, 361.18it/s]\r 85%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûî | 369/432 [00:01\u003c00:00, 445.59it/s]\n"}
+,{"stream_name":"stderr","time":292.799284451,"data":"\r 85%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûî | 369/432 [00:01\u003c00:00, 445.59it/s]\r100%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê| 432/432 [00:01\u003c00:00, 402.94it/s]\n"}
+,{"stream_name":"stderr","time":292.826796487,"data":"\r100%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê| 432/432 [00:01\u003c00:00, 402.94it/s]\n"}
+,{"stream_name":"stderr","time":292.826859101,"data":"\n"}
+,{"stream_name":"stderr","time":292.826864987,"data":"\n"}
+,{"stream_name":"stdout","time":293.696873119,"data":"\n"}
+,{"stream_name":"stdout","time":293.696898291,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":293.696903875,"data":"# Loading the following 1 datasets (incl. sampling weight):                         #\n"}
+,{"stream_name":"stdout","time":293.696907888,"data":"# libero_spatial_no_noops: =================================================1.000000 #\n"}
+,{"stream_name":"stdout","time":293.696911832,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":293.696915867,"data":"\n"}
+,{"stream_name":"stdout","time":297.856328008,"data":"\n"}
+,{"stream_name":"stdout","time":297.856390039,"data":"--- frame 0 | lang='pick up the black bowl next to the plate and ' | gt_lab=left | last_text_pos=538\n"}
+,{"stream_name":"stdout","time":299.050976131,"data":"    base  frozen_word=up        ap_label=None\n"}
+,{"stream_name":"stderr","time":299.339029951,"data":"/kaggle/working/Anchor-Align/prismatic/extern/hf/modeling_prismatic.py:974: UserWarning: The given NumPy array is not writable, and PyTorch does not support non-writable tensors. This means writing to this tensor will result in undefined behavior. You may want to copy the array to protect its data or make it writable before converting it to a tensor. This type of warning will be suppressed for the rest of this program. (Triggered internally at /pytorch/torch/csrc/utils/tensor_numpy.cpp:213.)\n"}
+,{"stream_name":"stderr","time":299.339068608,"data":"  proprio = torch.Tensor(proprio).to(projected_patch_embeddings.device, dtype=projected_patch_embeddings.dtype)\n"}
+,{"stream_name":"stderr","time":299.339072242,"data":"\n"}
+,{"stream_name":"stderr","time":299.339075014,"data":"/kaggle/working/Anchor-Align/prismatic/extern/hf/modeling_prismatic.py:974: UserWarning: The given NumPy array is not writable, and PyTorch does not support non-writable tensors. This means writing to this tensor will result in undefined behavior. You may want to copy the array to protect its data or make it writable before converting it to a tensor. This type of warning will be suppressed for the rest of this program. (Triggered internally at /pytorch/torch/csrc/utils/tensor_numpy.cpp:213.)\n"}
+,{"stream_name":"stderr","time":299.339109944,"data":"  proprio = torch.Tensor(proprio).to(projected_patch_embeddings.device, dtype=projected_patch_embeddings.dtype)\n"}
+,{"stream_name":"stdout","time":299.862637311,"data":"    bc    frozen_word=up        ap_label=forward\n"}
+,{"stream_name":"stdout","time":300.499882767,"data":"    aa    frozen_word=right     ap_label=forward\n"}
+,{"stream_name":"stdout","time":300.499914246,"data":"\n"}
+,{"stream_name":"stdout","time":300.499918844,"data":"--- frame 1 | lang='pick up the black bowl next to the cookie box' | gt_lab=down | last_text_pos=539\n"}
+,{"stream_name":"stdout","time":301.157594795,"data":"    base  frozen_word=up        ap_label=None\n"}
+,{"stream_name":"stdout","time":301.80375256,"data":"    bc    frozen_word=right     ap_label=down\n"}
+,{"stream_name":"stdout","time":302.252747517,"data":"    aa    frozen_word=up        ap_label=down\n"}
+,{"stream_name":"stdout","time":302.742155844,"data":"\n"}
+,{"stream_name":"stdout","time":302.742189816,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":302.742200891,"data":"# Loading the following 1 datasets (incl. sampling weight):                         #\n"}
+,{"stream_name":"stdout","time":302.742203765,"data":"# libero_spatial_no_noops: =================================================1.000000 #\n"}
+,{"stream_name":"stdout","time":302.742207038,"data":"######################################################################################\n"}
+,{"stream_name":"stdout","time":302.742223598,"data":"\n"}
+,{"stream_name":"stdout","time":434.214657266,"data":"skipped stationary frames: 0\n"}
+,{"stream_name":"stdout","time":434.214730386,"data":"\n"}
+,{"stream_name":"stdout","time":434.214735599,"data":"=== DIAGNOSTIC: FROZEN-HEAD DIRECTION ACCURACY (last text token) ===\n"}
+,{"stream_name":"stdout","time":434.214740061,"data":"  base  frozen_acc= 16.7%  ap_acc=  0.0%  (n=60)  dist={'up': 59, 'left': 1}\n"}
+,{"stream_name":"stdout","time":434.214744287,"data":"  bc    frozen_acc= 18.3%  ap_acc= 88.3%  (n=60)  dist={'up': 42, 'right': 14, 'left': 2, 'backward': 2}\n"}
+,{"stream_name":"stdout","time":434.214748599,"data":"  aa    frozen_acc= 16.7%  ap_acc= 78.3%  (n=60)  dist={'up': 40, 'right': 7, 'left': 5, 'down': 4, 'forward': 4}\n"}
+,{"stream_name":"stdout","time":435.190087422,"data":"\n"}
+,{"stream_name":"stdout","time":435.190129516,"data":"=== GATE: TEXT-TOKEN CKA vs BASE (per-layer; paper Fig 14: BC~0.34 deep, AA~0.95) ===\n"}
+,{"stream_name":"stdout","time":435.190134374,"data":"  layer curve bc:  100  100   99   99   98   99   98   96   97   98   97   96   96   95   94   91   91   92   93   90   91   84   63   50   59\n"}
+,{"stream_name":"stdout","time":435.19013831,"data":"  layer curve aa:  100  100   99   99   99   99   99   99   99   99   99   98   98   98   99   99   99   99   99   99   99   98   97   97   95\n"}
+,{"stream_name":"stdout","time":435.190158076,"data":"  deep(6-layer) CKA: bc= 72.8%  aa= 97.4%  gap=24.5 pts\n"}
+,{"stream_name":"stdout","time":435.190164102,"data":"GATE: PASS (deep-layer CKA gap \u003e= 20 pts required)\n"}
+,{"stream_name":"stderr","time":435.558463994,"data":"/usr/local/lib/python3.12/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.\n"}
+,{"stream_name":"stderr","time":435.558503811,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":435.558520721,"data":"\n"}
+,{"stream_name":"stderr","time":435.558539879,"data":"/usr/local/lib/python3.12/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.\n"}
+,{"stream_name":"stderr","time":435.558543934,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":437.8059216,"data":"/usr/local/lib/python3.12/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.\n"}
+,{"stream_name":"stderr","time":437.805959145,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":437.805963651,"data":"\n"}
+,{"stream_name":"stderr","time":437.808595747,"data":"/usr/local/lib/python3.12/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.\n"}
+,{"stream_name":"stderr","time":437.808625269,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":439.979066167,"data":"/usr/local/lib/python3.12/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.\n"}
+,{"stream_name":"stderr","time":439.97909614,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":439.979100692,"data":"\n"}
+,{"stream_name":"stderr","time":439.979104526,"data":"/usr/local/lib/python3.12/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.\n"}
+,{"stream_name":"stderr","time":439.979108964,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":442.2227218,"data":"/usr/local/lib/python3.12/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.\n"}
+,{"stream_name":"stderr","time":442.222758948,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":442.222765184,"data":"\n"}
+,{"stream_name":"stderr","time":442.222779839,"data":"/usr/local/lib/python3.12/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.\n"}
+,{"stream_name":"stderr","time":442.22278539,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":442.598419553,"data":"/usr/local/lib/python3.12/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.\n"}
+,{"stream_name":"stderr","time":442.59845459,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":442.598458385,"data":"\n"}
+,{"stream_name":"stderr","time":442.601488732,"data":"/usr/local/lib/python3.12/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.\n"}
+,{"stream_name":"stderr","time":442.601504465,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":442.975996393,"data":"/usr/local/lib/python3.12/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.\n"}
+,{"stream_name":"stderr","time":442.976033743,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":442.976038792,"data":"\n"}
+,{"stream_name":"stderr","time":442.976042453,"data":"/usr/local/lib/python3.12/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.\n"}
+,{"stream_name":"stderr","time":442.976046878,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":443.358150284,"data":"/usr/local/lib/python3.12/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.\n"}
+,{"stream_name":"stderr","time":443.358200185,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":443.358204804,"data":"\n"}
+,{"stream_name":"stderr","time":443.360456695,"data":"/usr/local/lib/python3.12/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.\n"}
+,{"stream_name":"stderr","time":443.3604701,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":443.805771114,"data":"/usr/local/lib/python3.12/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.\n"}
+,{"stream_name":"stderr","time":443.805806073,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":443.805810437,"data":"\n"}
+,{"stream_name":"stderr","time":443.806452692,"data":"/usr/local/lib/python3.12/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.\n"}
+,{"stream_name":"stderr","time":443.806467066,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":444.236881778,"data":"/usr/local/lib/python3.12/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.\n"}
+,{"stream_name":"stderr","time":444.236914417,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":444.2369189,"data":"\n"}
+,{"stream_name":"stderr","time":444.238489822,"data":"/usr/local/lib/python3.12/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.\n"}
+,{"stream_name":"stderr","time":444.238503028,"data":"  warnings.warn(\n"}
+,{"stream_name":"stdout","time":444.493800966,"data":"\n"}
+,{"stream_name":"stdout","time":444.493832673,"data":"=== DIAGNOSTIC: LINEAR-PROBE DIRECTION ACC (5-fold x3 CV, action-adjacent) ===\n"}
+,{"stream_name":"stdout","time":444.493837062,"data":"  base  probe_acc= 69.4%\n"}
+,{"stream_name":"stdout","time":444.493840889,"data":"  bc    probe_acc= 75.0%\n"}
+,{"stream_name":"stdout","time":444.493844604,"data":"  aa    probe_acc= 82.8%\n"}
+,{"stream_name":"stdout","time":444.493848086,"data":"saved: /kaggle/working/e0_smoke_results.json\n"}
+,{"stream_name":"stderr","time":450.865007353,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":450.865036705,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":451.024697232,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":451.024722898,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":451.622152149,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":452.17971231,"data":"[NbConvertApp] Writing 936022 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":454.513009341,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":455.51502507,"data":"[NbConvertApp] Writing 1087397 bytes to __results__.html\n"}
+]
