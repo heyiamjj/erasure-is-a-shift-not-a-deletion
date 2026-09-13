@@ -2,7 +2,7 @@
 
 **Recovering Pretrained Semantics from Behavior-Cloned VLAs at Inference Time**
 
-This repository contains the paper (PDF) and the complete experiment code and run logs.
+This repository contains the paper and the complete experiment code and run logs.
 
 ## Summary
 
